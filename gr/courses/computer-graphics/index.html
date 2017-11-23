@@ -1,0 +1,786 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.7.1 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Γραφικά με Υπολογιστές - Τμήμα Πληροφορικής</title>
+
+
+
+
+<meta name="description" content="Βασικές έννοιες γραφικών με υπολογιστές και εφαρμογές τους, Ιστορία και γενικά χαρακτηριστικά, Διανυσματική(ά) / Πλεγματική(ά) απεικόνιση/γραφικά, Εισαγωγικά στοιχεία σωλήνωσης, Βασικές Έννοιες Σχεδίασης, Αλγόριθμοι Σχεδίασης Ευθύγραμμου Τμήματος, Κύκλου, Έλλειψης, Φαινόμενο Ταύτισης, Τρόποι αναπαράστασης, παραγωγής και απεικόνισης τριδιάστατων δεδομένων, Χρωματισμός πολυγώνων, Αποκοπή, Μετασχηματισμοί και συστήματα συντεταγμένων, Σύνθεση 2Δ Μετασχηματισμών, Ομογενείς Συντεταγμένες, Μετασχηματισμοί Προβολής, Προοπτική, Παράλληλη, Πλάγια Προβολή">
+
+
+
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Τμήμα Πληροφορικής">
+<meta property="og:title" content="Γραφικά με Υπολογιστές">
+
+
+
+
+  <meta property="og:description" content="Βασικές έννοιες γραφικών με υπολογιστές και εφαρμογές τους, Ιστορία και γενικά χαρακτηριστικά, Διανυσματική(ά) / Πλεγματική(ά) απεικόνιση/γραφικά, Εισαγωγικά στοιχεία σωλήνωσης, Βασικές Έννοιες Σχεδίασης, Αλγόριθμοι Σχεδίασης Ευθύγραμμου Τμήματος, Κύκλου, Έλλειψης, Φαινόμενο Ταύτισης, Τρόποι αναπαράστασης, παραγωγής και απεικόνισης τριδιάστατων δεδομένων, Χρωματισμός πολυγώνων, Αποκοπή, Μετασχηματισμοί και συστήματα συντεταγμένων, Σύνθεση 2Δ Μετασχηματισμών, Ομογενείς Συντεταγμένες, Μετασχηματισμοί Προβολής, Προοπτική, Παράλληλη, Πλάγια Προβολή">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2017-11-23T22:37:43+02:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Your Name",
+      "url" : null,
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="/site-gem/feed.xml" type="application/atom+xml" rel="alternate" title="Τμήμα Πληροφορικής Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/site-gem/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--courses">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/site-gem/gr/index/">Τμήμα Πληροφορικής</a>
+        <ul class="visible-links">
+          
+          
+            
+            <li class="masthead__menu-item"><a href="/site-gem">Προσωπικό</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="/site-gem">Σπουδές</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="/site-gem/gr/groups/">Εργαστήρια</a></li>
+          
+        </ul>
+        <button type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/site-gem/assets/images/fmylonas.jpg" class="author__avatar" alt="Φοίβος Μυλωνάς" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name"><a href="/site-gem/gr/faculty/fmylonas">Φοίβος Μυλωνάς</a> </h3>
+    
+      <p class="author__bio" itemprop="description">
+        Αναπαράσταση και Διαχείριση Γνώσης
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        <li>
+          <a href="http://www.ionio.gr/~fmylonas" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:fmylonas@ionio.gr">
+            <meta itemprop="email" content="fmylonas@ionio.gr" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          
+          
+
+          <a href="/site-gem/gr/posts/"><span class="nav__sub-title">ΑΝΑΚΟΙΝΩΣΕΙΣ</span></a>
+        
+
+        
+      </li>
+    
+      <li>
+        
+          
+          
+
+          <a href="http://events.di.ionio.gr/"><span class="nav__sub-title">ΕΚΔΗΛΩΣΕΙΣ</span></a>
+        
+
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">ΠΡΟΣΩΠΙΚΟ</span>
+        
+
+        
+        <ul>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem/gr/faculty/" class="">Διδακτικό</a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">ΣΠΟΥΔΕΣ</span>
+        
+
+        
+        <ul>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem/gr/courses/" class="">Προπτυχιακό</a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem/gr/msc-courses/" class="">Μεταπτυχιακό</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          
+          
+
+          <a href="/site-gem/gr/groups/"><span class="nav__sub-title">ΕΡΓΑΣΤΗΡΙΑ</span></a>
+        
+
+        
+        <ul>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          
+          
+
+          <a href="/site-gem/gr/projects/"><span class="nav__sub-title">ΠΡΟΓΡΑΜΜΑΤΑ</span></a>
+        
+
+        
+        <ul>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem/gr/projects/cult/" class="">cult</a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/site-gem" class=""></a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">ΥΠΗΡΕΣΙΕΣ</span>
+        
+
+        
+        <ul>
+          
+            
+            
+
+            
+            
+
+            <li><a href="http://gram-web.ionio.gr/unistudent/login.asp" class="">gram-web</a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="http://e-class.ionio.gr" class="">e-class</a></li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="https://webmail.ionio.gr/" class="">WebMail</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+    
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Γραφικά με Υπολογιστές">
+    <meta itemprop="description" content="Βασικές έννοιες γραφικών με υπολογιστές και εφαρμογές τους, Ιστορία και γενικά χαρακτηριστικά, Διανυσματική(ά) / Πλεγματική(ά) απεικόνιση/γραφικά, Εισαγωγικά στοιχεία σωλήνωσης, Βασικές Έννοιες Σχεδίασης, Αλγόριθμοι Σχεδίασης Ευθύγραμμου Τμήματος, Κύκλου, Έλλειψης, Φαινόμενο Ταύτισης, Τρόποι αναπαράστασης, παραγωγής και απεικόνισης τριδιάστατων δεδομένων, Χρωματισμός πολυγώνων, Αποκοπή, Μετασχηματισμοί και συστήματα συντεταγμένων, Σύνθεση 2Δ Μετασχηματισμών, Ομογενείς Συντεταγμένες, Μετασχηματισμοί Προβολής, Προοπτική, Παράλληλη, Πλάγια Προβολή">
+    <meta itemprop="datePublished" content="November 23, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Γραφικά με Υπολογιστές
+</h1>
+          
+        </header>
+      
+
+      
+       <div>Βασικές έννοιες γραφικών με υπολογιστές και εφαρμογές τους, Ιστορία και γενικά χαρακτηριστικά, Διανυσματική(ά) / Πλεγματική(ά) απεικόνιση/γραφικά, Εισαγωγικά στοιχεία σωλήνωσης, Βασικές Έννοιες Σχεδίασης, Αλγόριθμοι Σχεδίασης Ευθύγραμμου Τμήματος, Κύκλου, Έλλειψης, Φαινόμενο Ταύτισης, Τρόποι αναπαράστασης, παραγωγής και απεικόνισης τριδιάστατων δεδομένων, Χρωματισμός πολυγώνων, Αποκοπή, Μετασχηματισμοί και συστήματα συντεταγμένων, Σύνθεση 2Δ Μετασχηματισμών, Ομογενείς Συντεταγμένες, Μετασχηματισμοί Προβολής, Προοπτική, Παράλληλη, Πλάγια Προβολή</div>
+      
+      
+
+
+
+      <section class="page__content" itemprop="text">
+        <p>Βιβλιογραφία:</p>
+<ul>
+  <li>“Γραφικά και Οπτικοποίηση”, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν., Εκδόσεις Συμμετρία, ISBN 978-960-266-296-0, 2010”<a href="https://service.eudoxus.gr/search/#a/id:35474/0">eudoxus link</a></li>
+  <li>“Γραφικά με ηλεκτρονικό υπολογιστή”, Στυλιάδης Αθανάσιος Δ., Εκδόσεις Ζήτη, ISBN 960-431-510-2, 1999”<a href="https://service.eudoxus.gr/search/#a/id:11193/0">eudoxus link</a></li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  <p class="page__taxonomy">
+  <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+  <span itemprop="keywords">
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <a href="/site-gem/gr/courses/computer-graphics/" class="page__taxonomy-item" rel="tag">Γραφικά με Υπολογιστές</a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <a href="/site-gem/gr/courses/data-mining-and-data-warehousing/" class="page__taxonomy-item" rel="tag">Αποθήκες Δεδομένων και Εξόρυξη Γνώσης</a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <a href="/site-gem/gr/courses/digit-image-process/" class="page__taxonomy-item" rel="tag">Ψηφιακή Επεξεργασία Εικόνας</a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <a href="/site-gem/gr/courses/information-and-knowledge-representation/" class="page__taxonomy-item" rel="tag">Αναπαράσταση Πληροφοριών και Γνώσης</a>
+        
+      
+        
+          <a href="/site-gem/gr/courses/information-retrieval/" class="page__taxonomy-item" rel="tag">Ανάκτηση Πληροφορίας </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <a href="/site-gem/gr/courses/semantic-and-social-web/" class="page__taxonomy-item" rel="tag">Σημασιολογικός και Κοινωνικός Ιστός</a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+        
+          
+          
+        
+          
+        
+      
+          
+          
+        
+          
+        
+          
+        
+      
+          
+          
+        
+          
+            <a href="/site-gem/gr/groups/hi/" class="page__taxonomy-item" rel="tag">Εργαστήριο Εφαρμογών Πληροφορικής στις Ανθρωπιστικές – Κοινωνικές Επιστήμες (HILab)</a><span class="sep">, </span>
+          
+        
+          
+        
+      
+          
+          
+        
+          
+        
+      
+          
+          
+        
+          
+        
+          
+        
+          
+        
+      
+          
+          
+        
+      
+  </span>
+</p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-11-23T22:37:43+02:00">November 23, 2017</time></p>
+        
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/site-gem/gr/courses/computer-architecture/" class="pagination--pager" title="Αρχιτεκτονική Υπολογιστών
+">Previous</a>
+    
+    
+      <a href="/site-gem/gr/courses/computer-programming/" class="pagination--pager" title="Προγραμματισμός Υπολογιστών
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+
+<li><a href="/site-gem/en/courses/computer-graphics/">en</a></li>
+
+<li><a href="/site-gem/gr/courses/computer-graphics/">gr</a></li>
+
+
+
+
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/ioniodi"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="/site-gem/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 Your Name. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> &amp; <a href="https://www.sylvaindurand.org/making-jekyll-multilingual/">Jekyll Multilingual</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/site-gem/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+  </body>
+</html>
