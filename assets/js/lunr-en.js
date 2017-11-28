@@ -14,11 +14,135 @@ var idx = lunr(function () {
     
     
       idx.add({
+        title: "Alexandros Panaretos ",
+        excerpt: "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
+        categories: [],
+        tags: ["Internet programming","Databases","Content Management Systems","Social and Cooperative Networks"],
+        id: 0
+      });
+      
+    
+      idx.add({
+        title: "Athanasios Alexiou",
+        excerpt: "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
+        categories: [],
+        tags: ["Bioinformatics"],
+        id: 1
+      });
+      
+    
+      idx.add({
+        title: "Elena Laskari",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 2
+      });
+      
+    
+      idx.add({
+        title: "Varvara Garneli",
+        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+        categories: [],
+        tags: ["Computing Education"],
+        id: 3
+      });
+      
+    
+      idx.add({
+        title: "Konstantinos Giannakis",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+        categories: [],
+        tags: ["Theoretical Computer Science"],
+        id: 4
+      });
+      
+    
+      idx.add({
+        title: "Ioannis Karydis",
+        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+        categories: ["HILab"],
+        tags: ["Decision Support Systems","Speech and Audio Processing"],
+        id: 5
+      });
+      
+    
+      idx.add({
+        title: "Patrick Mikalef",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+        categories: [],
+        tags: ["IT Strategy"],
+        id: 6
+      });
+      
+    
+      idx.add({
+        title: "Ilias Pappas",
+        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+        categories: [],
+        tags: ["E-Commerce"],
+        id: 7
+      });
+      
+    
+      idx.add({
+        title: "George Paxinos",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Neuroscience"],
+        id: 8
+      });
+      
+    
+      idx.add({
+        title: "Maria Psiha",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+        categories: [],
+        tags: ["Bioinformatics"],
+        id: 9
+      });
+      
+    
+      idx.add({
+        title: "Spiros Voulgaris",
+        excerpt: "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
+        categories: [],
+        tags: [],
+        id: 10
+      });
+      
+    
+      idx.add({
+        title: "Swtiria-Sofia Aroniada",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 11
+      });
+      
+    
+      idx.add({
+        title: "Bernd Wegner",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Mathematics"],
+        id: 12
+      });
+      
+    
+  
+
+  
+
+  
+    
+    
+      idx.add({
         title: "Artificial Inteligence",
         excerpt: "bibliography: ““ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ: ΜΙΑ ΣΥΓΧΡΟΝΗ ΠΡΟΣΕΓΓΙΣΗ”, Russell S., Norvig P. ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ, ISBN 960-209-873-2, 2005” ““Τεχνητή Nοημοσύνη”, 3η έκδοση,...",
         categories: [],
         tags: [],
-        id: 0
+        id: 13
       });
       
     
@@ -27,7 +151,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Introduction to Algorithms vol I”, CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., ITE Publications, ISBN 978-960-524-225-1, 2009 (in...",
         categories: [],
         tags: [],
-        id: 1
+        id: 14
       });
       
     
@@ -36,7 +160,7 @@ var idx = lunr(function () {
         excerpt: "bibliography:\n\n  ““ORGANIZATION THORY AND DESIGN”, RICHARD L. DAFT, Klidarithos Publications, ISBN 960-209-846-5, 2005 (in Greek)”\n\n\n",
         categories: [],
         tags: [],
-        id: 2
+        id: 15
       });
       
     
@@ -45,7 +169,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Εξόρυξη από Μεγάλα Σύνολα Δεδομένων, Anand Rajaraman, Jeffrey David Ullman”eudoxus link ” Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ...",
         categories: [],
         tags: [],
-        id: 3
+        id: 16
       });
       
     
@@ -54,7 +178,7 @@ var idx = lunr(function () {
         excerpt: "bibliography : “Calculus, Volume I, Finney, Weir, Giordano, Crete University Press 2006.” “Vector Calculus, J. Marden and A. Tromba, University...",
         categories: [],
         tags: [],
-        id: 4
+        id: 17
       });
       
     
@@ -63,7 +187,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: ” Compilers, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman” eudoxus link ” Compilers, Παπασπύρου Νικόλαος...",
         categories: [],
         tags: [],
-        id: 5
+        id: 18
       });
       
     
@@ -72,7 +196,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Introduction to the Theory of Computation”, SIPSER MICHAEL, ITE Publications, ISBN 978-960-524-243-5, 2009 (in greek)” ““Elements of the Theory...",
         categories: [],
         tags: [],
-        id: 6
+        id: 19
       });
       
     
@@ -81,7 +205,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “D.A.Patterson &amp; J.L.Hennessy, Computer Organization and Design, Fourth Edition, Morgan Kaufmann, 2011.” “W. Stallings, Computer Organization and Architecture (9th...",
         categories: [],
         tags: [],
-        id: 7
+        id: 20
       });
       
     
@@ -90,7 +214,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Γραφικά και Οπτικοποίηση”, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν., Εκδόσεις Συμμετρία, ISBN 978-960-266-296-0, 2010”eudoxus link “Γραφικά με...",
         categories: [],
         tags: [],
-        id: 8
+        id: 21
       });
       
     
@@ -99,7 +223,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “C++ Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα &amp; ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011 (in greek)...",
         categories: [],
         tags: [],
-        id: 9
+        id: 22
       });
       
     
@@ -108,7 +232,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Εισαγωγή στη διδακτική της πληροφορικής, Βασίλης Ι. Κόμης, Εκδόσεις Κλειδάριθμος” “Εισαγωγή στη διδακτική της πληροφορικής, Ν. Αλεξανδρής, Β. Μπελεσιώτης,...",
         categories: [],
         tags: [],
-        id: 10
+        id: 23
       });
       
     
@@ -117,7 +241,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Κρυπτογραφία και ασφάλεια δικτύων – αρχες και εφαρμογες. William Stallings, ΙΩΝ 2012.”eudoxus link “Σύγχρονη Κρυπτογραφία – Θεωρία και Εφαρμογές....",
         categories: [],
         tags: [],
-        id: 11
+        id: 24
       });
       
     
@@ -126,7 +250,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση”, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α....",
         categories: [],
         tags: [],
-        id: 12
+        id: 25
       });
       
     
@@ -135,7 +259,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin” eudoxus link “Εισαγωγή στην Εξόρυξη Δεδομένων και τις Αποθήκες...",
         categories: [],
         tags: [],
-        id: 13
+        id: 26
       });
       
     
@@ -144,7 +268,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Δομές δεδομένων, αλγόριθμοι και εφαρμογές C++”, Sahnii Sartaj, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-030-1, 2004” “ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ”, ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ Γ.Φ., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ...",
         categories: [],
         tags: [],
-        id: 14
+        id: 27
       });
       
     
@@ -153,7 +277,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Συστήματα Βάσεων Δεδομένων”, Silberschatz, Korth, Suda, Εκδόσεις Α. Γκιούρδα, ISBN 978-960-512-384-0, 2004” ““ΣΧΕΔΙΑΣΜΟΣ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ”, ΓΕΩΡΓΙΟΣ ΒΑΣΙΛΑΚΟΠΟΥΛΟΣ, Εκδόσεις Γ....",
         categories: [],
         tags: [],
-        id: 15
+        id: 28
       });
       
     
@@ -162,7 +286,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Θεμελιώδεις αρχές συστημάτων βάσεων δεδομένων”, Elmasri Ramez,Navathe Shamkant B, Εκδόσεις Δίαυλος, ISBN 978-960-531-220-6, 2008” ““Συστήματα Βάσεων Δεδομένων”, Ιωάννης Μανωλόπουλος...",
         categories: [],
         tags: [],
-        id: 16
+        id: 29
       });
       
     
@@ -171,7 +295,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΑΣ”, ΙΩΑΝΝΗΣ ΠΗΤΑΣ, Εκδόσεις ΙΩΑΝΝΗΣ ΠΗΤΑΣ, 2010” “Ψηφιακή Επεξεργασία και Ανάλυση Εικόνας”, Παπαμάρκος Νικόλαος, Αυτοέκδοση, ISBN 978-960-92731-3-8,...",
         categories: [],
         tags: [],
-        id: 17
+        id: 30
       });
       
     
@@ -180,7 +304,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Discrete Mathematics: Mathematics of Computer Science, L. Kyrousis, Ch. Bouras and P. Spyrakis, Gutenberg, 1992” “Discrete Mathematics: Problems and...",
         categories: [],
         tags: [],
-        id: 18
+        id: 31
       });
       
     
@@ -189,7 +313,7 @@ var idx = lunr(function () {
         excerpt: "Βιβλιογραφία: ““ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ: ΑΡΧΕΣ ΚΑΙ ΥΠΟΔΕΙΓΜΑΤΑ”, ANDREW S. TANENBAUM, MAARTEN VAN STEEN” eudoxus link ““ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ ΜΕ JAVA”, Ι. Κ....",
         categories: [],
         tags: [],
-        id: 19
+        id: 32
       });
       
     
@@ -198,7 +322,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Συστήματα υποστήριξης αποφάσεων”, Ματσατσίνης Ν., Εκδόσεις Νέων Τεχνολογιών, 2010, ISBN 978-960-6759-44-4 eudoxus link “Διοικητική επιστήμη”, Πραστάκος Γρηγόρης Π., Εκδόσεις...",
         categories: [],
         tags: [],
-        id: 20
+        id: 33
       });
       
     
@@ -207,7 +331,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “”Εισαγωγή στην ηλεκτρονική διακυβέρνηση” , Πομπόρτσης Ανδρέας, Εκδόσεις ΤΖΙΟΛΑ, ISBN 960-418-083-5, 2006” eudoxus link “”Ηλεκτρονική δημόσια διοίκηση” , Αποστολάκης...",
         categories: [],
         tags: [],
-        id: 21
+        id: 34
       });
       
     
@@ -216,7 +340,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “ΒΙΝΤΕΟΠΑΙΧΝΙΔΙΑ: ΒΙΟΜΗΧΑΝΙΑ ΚΑΙ ΑΝΑΠΤΥΞΗ, ΚΩΣΤΑΣ ΑΝΑΓΝΩΣΤΟΥ”eudoxus link\n  “Εικονικά περιβάλλοντα πληροφόρησης, Κόκοτος Δημήτριος Χ.”eudoxus link\n\n",
         categories: [],
         tags: [],
-        id: 22
+        id: 35
       });
       
     
@@ -225,7 +349,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Η. Γ. Καραγιάννης, Ι. Λ. Μπακούρος, “Καινοτομία &amp; Επιχειρηματικότητα: Θεωρία – Πράξη”, Εκδόσεις Σοφία, 2010.” “Πιπερόπουλος Πάνος Γ., “”Επιχειρηματικότητα,...",
         categories: [],
         tags: [],
-        id: 23
+        id: 36
       });
       
     
@@ -234,7 +358,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α....",
         categories: [],
         tags: [],
-        id: 24
+        id: 37
       });
       
     
@@ -243,7 +367,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “ΤΕΧΝΟΛΟΓΙΕΣ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΑΣ &amp; ΚΟΙΝΩΝΙΑ, Ιωάννης Σ. Κουμπούρος”eudoxus link “Υπηρεσίες προστιθέμενης αξίας στο διαδίκτυο, Μήλιου Αμαλία Ν.,Πομπόρτσης Ανδρέας...",
         categories: [],
         tags: [],
-        id: 25
+        id: 38
       });
       
     
@@ -252,7 +376,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Εισαγωγή στη σύγχρονη επιστήμη των υπολογιστών, Lister Andrew M., Εκδόσεις Δίαυλος, ISBN 978-960-7140-65-4, 2000” “Εισαγωγή στην επιστήμη των Υπολογιστών,...",
         categories: [],
         tags: [],
-        id: 26
+        id: 39
       });
       
     
@@ -261,7 +385,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Andreas Pfitzmann, Marit Hansen (2010) A Terminology for talking about Privacy by data minimization: Anonymity, Unlinkability, Undetectability, Unobservability, Pseudonymity,...",
         categories: [],
         tags: [],
-        id: 27
+        id: 40
       });
       
     
@@ -270,7 +394,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Alan Dennis. Barbara Haley Wixom, David Tegarden (2010) Ανάλυση &amp; Σχεδιασμός Συστημάτων με τη UML 2.0: Μια αντικειμενοστρεφής Προσέγγιση,...",
         categories: [],
         tags: [],
-        id: 28
+        id: 41
       });
       
     
@@ -279,7 +403,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία”eudoxus link “Εισαγωγή στην εξόρυξη δεδομένων, Tan...",
         categories: [],
         tags: [],
-        id: 29
+        id: 42
       });
       
     
@@ -288,7 +412,7 @@ var idx = lunr(function () {
         excerpt: "Βιβλιογραφία: “ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ”, CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH eudoxus link “Ανάκτηση Πληροφορίας”, 2η Έκδοση, Baeza-Yates Ricardo, Ribeiro-Neto...",
         categories: [],
         tags: [],
-        id: 30
+        id: 43
       });
       
     
@@ -297,7 +421,7 @@ var idx = lunr(function () {
         excerpt: "Βιβλιογραφία: -“Πληροφοριακά Συστήματα Διαχείρισης Επιχειρησιακών Πόρων:Στρατηγικές &amp; Εφαρμογές, Γιάννης Πολλάλης, Αθανάσιος Βοζίκης”eudoxus link -“ΣΥΓΧΡΟΝΑ ΕΠΙΧΕΙΡΗΣΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, ΚΩΝΣΤΑΝΤΙΝΟΣ Ι. ΣΤΕΦΑΝΟΥ, ΧΡΗΣΤΟΣ...",
         categories: [],
         tags: [],
-        id: 31
+        id: 44
       });
       
     
@@ -306,7 +430,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “Διαχείριση Ασφάλειας Πληροφοριών, Σωκράτης Κάτσικας”eudoxus link\n  “Ασφάλεια Πληροφοριακών Συστημάτων, Σωκτ. Κάτσικας - Δ. Γκρίτζαλης - Στεφ. Γκρίτζαλης”eudoxus link\n\n\n",
         categories: [],
         tags: [],
-        id: 32
+        id: 45
       });
       
     
@@ -315,7 +439,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Εισαγωγή στη θεωρία της πληροφορίας”, Αφράτη Φώτω, Εκδόσεις Συμμετρία, 1994” ““Εισαγωγή στη θεωρία Πληροφοριών, Κωδίκων και Κρυπτογραφίας”, Ν. Αλεξανδρής,...",
         categories: [],
         tags: [],
-        id: 33
+        id: 46
       });
       
     
@@ -324,7 +448,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “Ανάπτυξη Web Εφαρμογών με PHP και MySQL”, Welling Luke,Thomson Laura, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-357-6, 2005” “ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΛΑΤΦΟΡΜΑΣ ΥΠΗΡΕΣΙΩΝ...",
         categories: [],
         tags: [],
-        id: 34
+        id: 47
       });
       
     
@@ -333,7 +457,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Εισαγωγή στην ηλεκτρονική διακυβέρνηση, Πομπόρτσης Ανδρέας, Εκδόσεις ΤΖΙΟΛΑ, ISBN 960-418-083-5, 2006” “Ηλεκτρονική δημόσια διοίκηση, Αποστολάκης Ιωάννης Α., Λουκής Ευριπίδης...",
         categories: [],
         tags: [],
-        id: 35
+        id: 48
       });
       
     
@@ -342,7 +466,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““C Προγραμματισμός”, 7η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ &amp; ΣΙΑ ΕΕ, ISBN 978-960-512-6414, 2014 (in greek)”...",
         categories: [],
         tags: [],
-        id: 36
+        id: 49
       });
       
     
@@ -351,7 +475,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “S. Barnett, Matrices Methods and Applications , Clarendon Press, Oxford, 1990.” “S. Barnett, Polynomial and Linear Control Systems, Dekker,...",
         categories: [],
         tags: [],
-        id: 37
+        id: 50
       });
       
     
@@ -360,7 +484,7 @@ var idx = lunr(function () {
         excerpt: "bibliography:\n\n  “Ivan Bratko, Prolog Programming for Artificial Intelligence, 3rd Edition, Addison Wesley, 2000.”\n\n\n",
         categories: [],
         tags: [],
-        id: 38
+        id: 51
       });
       
     
@@ -369,7 +493,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “Διαχείριση έργων πληροφορικής, Κιουντούζης Ευάγγελος Α.”eudoxus link\n  “Διαχείριση έργου - project management, Burke Rory”eudoxus link\n\n",
         categories: [],
         tags: [],
-        id: 39
+        id: 52
       });
       
     
@@ -378,7 +502,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “Ferguson S.T., Linear Programming: A Concise Introduction, University of California (UCLA)\n  (http://www.math.ucla.edu/~tom/LP.pdf)”\n\n",
         categories: [],
         tags: [],
-        id: 40
+        id: 53
       });
       
     
@@ -387,7 +511,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Κιουντούζης, Ε. (2009) Μεθοδολογίες Ανάλυσης και Σχεδιασμού Πληροφοριακών Συστημάτων, Εκδόσεις Μπένου (3η Έκδοση), Αθήνα.” “Avison, D., Fitzgerald, G. (2007)...",
         categories: [],
         tags: [],
-        id: 41
+        id: 54
       });
       
     
@@ -396,7 +520,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: Τεχνολογία πολυμέσων, Δημητριάδης Σταύρος Ν., Πομπόρτσης Ανδρέας Σ., Τριανταφύλλου Ευάγγελος Γ., Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-025-7, 2004 Πολυμέσα Θεωρία και...",
         categories: [],
         tags: [],
-        id: 42
+        id: 55
       });
       
     
@@ -405,7 +529,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Δίκτυα Επικοινωνιών, ένα πρώτο μάθημα”, Jean Walrand, Μετάφραση-Επιμέλεια: Ιωάννης Σταυρακάκης, Λάζαρος Μεράκος, Εκδόσεις ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ – ΕΚΠΑ,...",
         categories: [],
         tags: [],
-        id: 43
+        id: 56
       });
       
     
@@ -414,7 +538,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ: ΜΙΑ ΠΡΟΣΕΓΓΙΣΗ ΑΠΟ ΤΗ ΣΚΟΠΙΑ ΤΩΝ ΣΥΣΤΗΜΑΤΩΝ”, LARRY L. PETERSON, BRUCE S. DAVIE, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-266-6,...",
         categories: [],
         tags: [],
-        id: 44
+        id: 57
       });
       
     
@@ -423,7 +547,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Java προγραμματισμός”, 10η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ ΣΙΑ ΕΕ, ISBN 978-960-512-6810, 2015 (in greek)” ““Java...",
         categories: [],
         tags: [],
-        id: 45
+        id: 58
       });
       
     
@@ -432,7 +556,7 @@ var idx = lunr(function () {
         excerpt: "bibliography:\n\n  ““Λειτουργικά Συστήματα Αρχές Σχεδίασης”, William Stallings, 8η Έκδοση, Εκδόσεις Τζιόλα”\n  ““ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ UNIX”,MARC J. ROCHKIND, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ”\n\n\n",
         categories: [],
         tags: [],
-        id: 46
+        id: 59
       });
       
     
@@ -441,7 +565,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Peter S. Pacheco, An Introduction to Parallel Programming, Morgan Kaufmann, 2011.” “Γραμματή Πάντζιου, Βασίλειος Μάμαλης, Αλέξανδρος Τομαράς , Εισαγωγή...",
         categories: [],
         tags: [],
-        id: 47
+        id: 60
       });
       
     
@@ -450,7 +574,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Pattern Classification, R. O. Duda, P.E. Hart and D.G. Stork, Wiley, 2001.” “Pattern Recognition, S. Theodoridis and K. Koutroumbas,...",
         categories: [],
         tags: [],
-        id: 48
+        id: 61
       });
       
     
@@ -459,7 +583,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “ΚΒΑΝΤΙΚΟΙ ΥΠΟΛΟΓΙΣΤΕΣ: ΒΑΣΙΚΕΣ ΕΝΝΟΙΕΣ”, Ιωάννης Καραφυλλίδης, Εκδόσεις ΚΛΕΙΔΑΡΙΘΜΟΣ, ISBN 978-960-209-816-5, 2005.” “Το νέο κβαντικό σύμπαν”, T.HEY, P.WALTERS, Εκδόσεις ΑΛ....",
         categories: [],
         tags: [],
-        id: 49
+        id: 62
       });
       
     
@@ -468,7 +592,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: -“Gollmann, D. (2011). Computer Security, 3rd Edition. Wiley, New York.” -“Anderson, R. (2008). Security engineering – A guide to...",
         categories: [],
         tags: [],
-        id: 50
+        id: 63
       });
       
     
@@ -477,7 +601,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “ΕΙΣΑΓΩΓΗ ΣΤΟ ΣΗΜΑΣΙΟΛΟΓΙΚΟ ΙΣΤΟ, GRIGORIS ANTONIOU, FRANK VAN HARMELEN”eudoxus link “Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό,...",
         categories: [],
         tags: [],
-        id: 51
+        id: 64
       });
       
     
@@ -486,7 +610,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Προσομοίωση διακριτών συστημάτων”, Khoshnevis Behrokh, Εκδόσεις Δίαυλος, ISBN 978-960-531-031-8, 1999” ““Προσομοίωση δικτύων υπολογιστών”, Πομπόρτσης Ανδρέας Σ., Τσουλφάς Ανέστης Γ.,...",
         categories: [],
         tags: [],
-        id: 52
+        id: 65
       });
       
     
@@ -495,7 +619,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “Το δίκαιο του διαδικτύου (internet), Σιδηρόπουλος Θεόδωρος”eudoxus link\n  “Το δίκαιο του ηλεκτρονικού εμπορίου, Αλεξανδρίδου Ελίζα Δ.”eudoxus link\n\n\n",
         categories: [],
         tags: [],
-        id: 53
+        id: 66
       });
       
     
@@ -504,7 +628,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: ““Ο ΠΡΑΚΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ”, ANDREW HUNT, DAVID THOMAS, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-135-5, 2008” ““ΑΝΑΓΝΩΣΗ ΚΩΔΙΚΑ”, ΔΙΟΜΗΔΗΣ ΣΠΙΝΕΛΛΗΣ, Εκδόσεις Κλειδάριθμος, ISBN...",
         categories: [],
         tags: [],
-        id: 54
+        id: 67
       });
       
     
@@ -513,7 +637,7 @@ var idx = lunr(function () {
         excerpt: "Βιβλιογραφία: ” ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΑΣΦΑΛΕΙΑΣ ΔΙΚΤΥΩΝ: ΕΦΑΡΜΟΓΕΣ ΚΑΙ ΠΡΟΤΥΠΑ”, WILLIAM STALLINGS eudoxos link ” Ασφάλεια Πληροφοριακών Συστημάτων”, Σωκτ. Κάτσικας -...",
         categories: [],
         tags: [],
-        id: 55
+        id: 68
       });
       
     
@@ -522,7 +646,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography:\n\n  “Ψηφιακή επεξεργασία σήματος, Antoniou A.”eudoxus link\n  “Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L.”eudoxus link\n\n\n",
         categories: [],
         tags: [],
-        id: 56
+        id: 69
       });
       
     
@@ -531,7 +655,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “Περιγραφική και διερευνητική στατιστική ανάλυση δεδομένων”, Γεωργιακώδης Φώτης A.,Τσίμπος Κλέων Χ., Εκδόσεις Σταμούλη, ISBN 978-960-351-315-6, 2000” “Πιθανότητες, τυχαίες μεταβλητές...",
         categories: [],
         tags: [],
-        id: 57
+        id: 70
       });
       
     
@@ -540,7 +664,7 @@ var idx = lunr(function () {
         excerpt: "Bibliography: “ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ, KENNETH C. LAUDON, JANE P. LAUDON”eudoxus link “ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, Γεώργιος Δουκίδης”eudoxus link...",
         categories: [],
         tags: [],
-        id: 58
+        id: 71
       });
       
     
@@ -549,7 +673,7 @@ var idx = lunr(function () {
         excerpt: "bibliography: “ΕΙΣΑΓΩΓΗ ΣΤΗ ΘΕΩΡΙΑ ΠΙΘΑΝΟΤΗΤΩΝ”, HOEL P., PORT S., STONE C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-156-8, 2009” “Πιθανότητες, τυχαίες...",
         categories: [],
         tags: [],
-        id: 59
+        id: 72
       });
       
     
@@ -559,11 +683,20 @@ var idx = lunr(function () {
     
     
       idx.add({
+        title: "Administrative Assistants",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 73
+      });
+      
+    
+      idx.add({
         title: "Posts by Category",
         excerpt: "conference Διοργάνωση συνεδρίου του έργου ADRIATinn Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου ανακοινώνει τη διοργάνωση συνεδρίου του έργου ADRIATinn, στο...",
         categories: [],
         tags: [],
-        id: 60
+        id: 74
       });
       
     
@@ -572,7 +705,7 @@ var idx = lunr(function () {
         excerpt: "Approximately 100 students enter the Department of Informatics every year after taking the Panhellenic Admission Examinations. Also, 10% of the...",
         categories: [],
         tags: [],
-        id: 61
+        id: 75
       });
       
     
@@ -581,7 +714,7 @@ var idx = lunr(function () {
         excerpt: "Professors Vassilis Chrissikopoulos IT – Networks – Information Security Panagiotis Vlamos Mathematics in Application Modelling Assοciate Professors Dimitrios Tsoumakos Data...",
         categories: [],
         tags: [],
-        id: 62
+        id: 76
       });
       
     
@@ -590,7 +723,7 @@ var idx = lunr(function () {
         excerpt: "Bioinformatics and Human Electrophysiology Lab (BiHELab) The Bioinformatics and Human Electrophysiology Lab focus on recent advances in geriatrics and neurodegeneration,...",
         categories: [],
         tags: [],
-        id: 63
+        id: 77
       });
       
     
@@ -599,7 +732,7 @@ var idx = lunr(function () {
         excerpt: "Super Customizable Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter. Learn...",
         categories: [],
         tags: [],
-        id: 64
+        id: 78
       });
       
     
@@ -608,7 +741,7 @@ var idx = lunr(function () {
         excerpt: "",
         categories: [],
         tags: [],
-        id: 65
+        id: 79
       });
       
     
@@ -617,16 +750,16 @@ var idx = lunr(function () {
         excerpt: "Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information Technology in Modern Organizations. Strategic Planning IT...",
         categories: [],
         tags: [],
-        id: 66
+        id: 80
       });
       
     
       idx.add({
         title: "Pages",
-        excerpt: "&lt;h2 id=\"courses\" class=\"archive__subtitle\"&gt;courses&lt;/h2&gt; &lt;h2 id=\"courses-en\" class=\"archive__subtitle\"&gt;courses-en&lt;/h2&gt; Artificial Inteligence Aim and scope of AI. Historical data. Problem Solving. Search. Blind and...",
+        excerpt: "&lt;h2 id=\"administrative-assistants\" class=\"archive__subtitle\"&gt;administrative-assistants&lt;/h2&gt; &lt;h2 id=\"administrative-assistants-en\" class=\"archive__subtitle\"&gt;administrative-assistants-en&lt;/h2&gt; &lt;h2 id=\"courses\" class=\"archive__subtitle\"&gt;courses&lt;/h2&gt; &lt;h2 id=\"courses-en\" class=\"archive__subtitle\"&gt;courses-en&lt;/h2&gt; Artificial Inteligence Aim and scope of AI. Historical...",
         categories: [],
         tags: [],
-        id: 67
+        id: 81
       });
       
     
@@ -635,7 +768,7 @@ var idx = lunr(function () {
         excerpt: "2017 Special Issue in Computational Aspects Related to Unconventional, Bioinspired and Quantum Methods The following special issue, of which we...",
         categories: [],
         tags: [],
-        id: 68
+        id: 82
       });
       
     
@@ -644,7 +777,7 @@ var idx = lunr(function () {
         excerpt: "Cultural Understanding through Learning and Technology (CULT) Project CULT aims to create a cooperation platform between schools that reside in...",
         categories: [],
         tags: [],
-        id: 69
+        id: 83
       });
       
     
@@ -653,7 +786,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 70
+        id: 84
       });
       
     
@@ -662,7 +795,7 @@ var idx = lunr(function () {
         excerpt: "Risk Perceptions and User Awareness XPath) e-Government and Information Systems Applied stochastic processes Markos Avlonitis Applied Stohastic Models Autonomic Networks...",
         categories: [],
         tags: [],
-        id: 71
+        id: 85
       });
       
     
@@ -678,7 +811,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
         categories: [],
         tags: ["Internet Programming","Dynamic algorithms for parallel and distributed systems","Query languages for the web (XML, XPath)","Temporal logics for automated synthesis and verification of reactive systems"],
-        id: 72
+        id: 86
       });
       
     
@@ -687,7 +820,7 @@ var idx = lunr(function () {
         excerpt: "education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
         categories: [],
         tags: ["Information Security Policies, Risk Perceptions and User Awareness","Information Security Risk Assessment and Management","Security Policies for Acceptable Internet Use","Privacy Enhancing Tools","Privacy Protection in Mobile Applications","Information Security and Privacy Standards","Theory Development and Research Methods in Information Systems","e-Services, e-Government and Information Systems"],
-        id: 73
+        id: 87
       });
       
     
@@ -696,7 +829,7 @@ var idx = lunr(function () {
         excerpt: "education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
         categories: [],
         tags: ["Applied stochastic processes","Self-organized systems","Modeling the spread of computer malware","Modeling and simulation of large scale networks"],
-        id: 74
+        id: 88
       });
       
     
@@ -705,7 +838,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Electronic and Computer Engineering, Technical University of Crete” “MSc. Marketing and Communication, Athens University of Economics and...",
         categories: [],
         tags: ["Computer-Supported Collaborative Work"],
-        id: 75
+        id: 89
       });
       
     
@@ -714,7 +847,7 @@ var idx = lunr(function () {
         excerpt: "education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
         categories: [],
         tags: ["Mobile and Distributed Computing","Context-aware and Pervasive Computing","Wireless Sensor Networks","Network-centric Information Systems"],
-        id: 76
+        id: 90
       });
       
     
@@ -723,7 +856,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
         categories: [],
         tags: ["Distributed Data Management","Data management in Cloud Computing","Internet Databases and DataWarehouses"],
-        id: 77
+        id: 91
       });
       
     
@@ -732,7 +865,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
         categories: [],
         tags: ["Cryptographic techniques for computer and network security","Security and Privacy in Internet applications"],
-        id: 78
+        id: 92
       });
       
     
@@ -741,7 +874,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
         categories: [],
         tags: ["Knowledge-assisted multimedia analysis","Multimedia information retrieval","Multimedia personalization","User adaptation","User modeling","User profiling","Visual context representation and analysis","Human-computer interaction"],
-        id: 79
+        id: 93
       });
       
     
@@ -750,7 +883,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
         categories: [],
         tags: ["Machine Learning","Natural Language Processing","User Modeling","Humanistic Informatics"],
-        id: 80
+        id: 94
       });
       
     
@@ -759,7 +892,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
         categories: [],
         tags: ["High-Performance Distributed Computer Systems","Real-time Embedded System Architectures","Pervasive Computing Systems"],
-        id: 81
+        id: 95
       });
       
     
@@ -768,7 +901,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
         categories: [],
         tags: ["Autonomic Networks","Network Performance Analysis","Medium Access Control"],
-        id: 82
+        id: 96
       });
       
     
@@ -777,7 +910,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
         categories: [],
         tags: ["Information Systems","E-Business & E-Governement","Mobile & Wireless Services","Strategic Management of ICT"],
-        id: 83
+        id: 97
       });
       
     
@@ -786,7 +919,7 @@ var idx = lunr(function () {
         excerpt: "education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
         categories: [],
         tags: ["Electronic Business","Electronic Government","Information Systems Management"],
-        id: 84
+        id: 98
       });
       
     
@@ -795,7 +928,7 @@ var idx = lunr(function () {
         excerpt: "education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
         categories: [],
         tags: ["Efficient I/O Algorithms & Data Structures","Computational Geometry and Computer Graphics","Spatio-Temporal and Multimedia Databases","Distributed Data Structures and Peer-to-Peer Computing","Parallel and Distributed Data Structures and Cloud Computing","Knowledge Data Discovery (KDD)","Data Mining Algorithms","Spatial Data Structures and Geographical Information Systems"],
-        id: 85
+        id: 99
       });
       
     
@@ -804,7 +937,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
         tags: ["Security","Computer Networks"],
-        id: 86
+        id: 100
       });
       
     
@@ -813,7 +946,7 @@ var idx = lunr(function () {
         excerpt: "education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n\n",
         categories: [],
         tags: ["Mathematical modeling applied for image restoration purposes","Mathematical modeling applied to physical and Chemical Engineering problems","Mathematical modeling in Education with the use of new technologies"],
-        id: 87
+        id: 101
       });
       
     
@@ -831,7 +964,7 @@ var idx = lunr(function () {
         excerpt: "BiHELab interests lie within educational, research and development activities in the areas of neurogenerative diseases and their relations with mitochondrial...",
         categories: [],
         tags: [],
-        id: 88
+        id: 102
       });
       
     
@@ -840,7 +973,7 @@ var idx = lunr(function () {
         excerpt: "The fields of current research interest in the Laboratory of Computational Modeling in the Department of Informatics of the Ionian...",
         categories: [],
         tags: [],
-        id: 89
+        id: 103
       });
       
     
@@ -849,7 +982,7 @@ var idx = lunr(function () {
         excerpt: "On the other hand, it employs methodologies adapted from these scientific and artistic areas in order to supply ICT products...",
         categories: [],
         tags: [],
-        id: 90
+        id: 104
       });
       
     
@@ -858,7 +991,7 @@ var idx = lunr(function () {
         excerpt: "The main focus of the Information Systems research actions is on: Management Information Systems (MIS) Strategic Decision Making Business Intelligence...",
         categories: [],
         tags: [],
-        id: 91
+        id: 105
       });
       
     
@@ -867,7 +1000,7 @@ var idx = lunr(function () {
         excerpt: "The education role of NMSLab is to support courses in computer networks, multimedia systems with respect to cultural applications, computer...",
         categories: [],
         tags: [],
-        id: 92
+        id: 106
       });
       
     
@@ -876,7 +1009,7 @@ var idx = lunr(function () {
         excerpt: "Our current areas of research include: Quantum Automata Automata on infinite inputs Modeling with Membrane automata SPARQL Queries and Finite...",
         categories: [],
         tags: [],
-        id: 93
+        id: 107
       });
       
     
@@ -892,7 +1025,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 94
+        id: 108
       });
       
     
@@ -901,7 +1034,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 95
+        id: 109
       });
       
     
@@ -910,7 +1043,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 96
+        id: 110
       });
       
     
@@ -919,131 +1052,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 97
-      });
-      
-    
-  
-
-  
-
-  
-    
-    
-      idx.add({
-        title: "Alexandros Panaretos ",
-        excerpt: "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
-        categories: [],
-        tags: ["Internet programming","Databases","Content Management Systems","Social and Cooperative Networks"],
-        id: 98
-      });
-      
-    
-      idx.add({
-        title: "Athanasios Alexiou",
-        excerpt: "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
-        categories: [],
-        tags: ["Bioinformatics"],
-        id: 99
-      });
-      
-    
-      idx.add({
-        title: "Elena Laskari",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 100
-      });
-      
-    
-      idx.add({
-        title: "Varvara Garneli",
-        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-        categories: [],
-        tags: ["Computing Education"],
-        id: 101
-      });
-      
-    
-      idx.add({
-        title: "Konstantinos Giannakis",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-        categories: [],
-        tags: ["Theoretical Computer Science"],
-        id: 102
-      });
-      
-    
-      idx.add({
-        title: "Ioannis Karydis",
-        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-        categories: ["HILab"],
-        tags: ["Decision Support Systems","Speech and Audio Processing"],
-        id: 103
-      });
-      
-    
-      idx.add({
-        title: "Patrick Mikalef",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-        categories: [],
-        tags: ["IT Strategy"],
-        id: 104
-      });
-      
-    
-      idx.add({
-        title: "Ilias Pappas",
-        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-        categories: [],
-        tags: ["E-Commerce"],
-        id: 105
-      });
-      
-    
-      idx.add({
-        title: "George Paxinos",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Neuroscience"],
-        id: 106
-      });
-      
-    
-      idx.add({
-        title: "Maria Psiha",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-        categories: [],
-        tags: ["Bioinformatics"],
-        id: 107
-      });
-      
-    
-      idx.add({
-        title: "Spiros Voulgaris",
-        excerpt: "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
-        categories: [],
-        tags: [],
-        id: 108
-      });
-      
-    
-      idx.add({
-        title: "Swtiria-Sofia Aroniada",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 109
-      });
-      
-    
-      idx.add({
-        title: "Bernd Wegner",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Mathematics"],
-        id: 110
+        id: 111
       });
       
     
@@ -1059,7 +1068,7 @@ var idx = lunr(function () {
         excerpt: "The following special issue, of which we are the guest editors will be published in “Computation” (ISSN 2079-3197, http://www.mdpi.com/journal/computation), and...",
         categories: ["journal","QUIT"],
         tags: [],
-        id: 111
+        id: 112
       });
       
     
@@ -1068,7 +1077,7 @@ var idx = lunr(function () {
         excerpt: "The topics of the workshop include Hybrid Imaging and Personalized Medicine Radiation Protection in Medical Physics Innovation in Medical Physics...",
         categories: ["workshop"],
         tags: [],
-        id: 112
+        id: 113
       });
       
     
@@ -1084,7 +1093,7 @@ var idx = lunr(function () {
         excerpt: "CULT (MC-ERG-2008-230894) is a Marie Curie European Reintegration Grants (ERG) project funded by the European Commission (EC) under the 7th...",
         categories: [],
         tags: [],
-        id: 113
+        id: 114
       });
       
     
@@ -1093,7 +1102,7 @@ var idx = lunr(function () {
         excerpt: "The D-Space project’s main objectives are: The demonstration and piloting of the D-Space service to the target users in real...",
         categories: [],
         tags: [],
-        id: 114
+        id: 115
       });
       
     
@@ -1102,7 +1111,7 @@ var idx = lunr(function () {
         excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form...",
         categories: [],
         tags: null,
-        id: 115
+        id: 116
       });
       
     
@@ -1111,7 +1120,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 116
+        id: 117
       });
       
     
@@ -1120,7 +1129,7 @@ var idx = lunr(function () {
         excerpt: "The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region....",
         categories: [],
         tags: [],
-        id: 117
+        id: 118
       });
       
     
@@ -1129,7 +1138,7 @@ var idx = lunr(function () {
         excerpt: "Archimedes III – National Strategic Reference Framework (NSRF) 2007-2013 Duration: 01/2012-12/2014 PromO(nto)tion proposes the development of a semantic thesaurus of...",
         categories: [],
         tags: [],
-        id: 118
+        id: 119
       });
       
     
@@ -1138,7 +1147,7 @@ var idx = lunr(function () {
         excerpt: "Duration: 01/02/2015 – 31/01/2018 Programme: Ηorizon 2020 Budget: 3,270,710.00€ Massive Open Online Courses have been growing rapidly in size and...",
         categories: [],
         tags: [],
-        id: 119
+        id: 120
       });
       
     
@@ -1148,6 +1157,157 @@ var idx = lunr(function () {
 console.log( jQuery.type(idx) );
 
 var store = [
+  
+    
+  
+    
+      
+      
+      
+        
+        {
+          "title": "Alexandros Panaretos ",
+          "url": "/site-gem/en/administrative-assistants/alex/",
+          "excerpt": "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Athanasios Alexiou",
+          "url": "/site-gem/en/administrative-assistants/alexiou/",
+          "excerpt": "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Elena Laskari",
+          "url": "/site-gem/en/administrative-assistants/elena/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Varvara Garneli",
+          "url": "/site-gem/en/administrative-assistants/garneli/",
+          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Konstantinos Giannakis",
+          "url": "/site-gem/en/administrative-assistants/giannakis/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Ioannis Karydis",
+          "url": "/site-gem/en/administrative-assistants/karydis/",
+          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Patrick Mikalef",
+          "url": "/site-gem/en/administrative-assistants/mikalef/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Ilias Pappas",
+          "url": "/site-gem/en/administrative-assistants/pappas/",
+          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "George Paxinos",
+          "url": "/site-gem/en/administrative-assistants/paxinos/",
+          "excerpt": "education:\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Maria Psiha",
+          "url": "/site-gem/en/administrative-assistants/psiha/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Spiros Voulgaris",
+          "url": "/site-gem/en/administrative-assistants/svoul/",
+          "excerpt": "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Swtiria-Sofia Aroniada",
+          "url": "/site-gem/en/administrative-assistants/swthria/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Bernd Wegner",
+          "url": "/site-gem/en/administrative-assistants/wegner/",
+          "excerpt": "education:\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+    
   
     
   
@@ -1823,6 +1983,17 @@ var store = [
       
         
         {
+          "title": "Administrative Assistants",
+          "url": "/site-gem/en/administrative-assistants/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Posts by Category",
           "url": "/site-gem/categories/",
           "excerpt": "conference Διοργάνωση συνεδρίου του έργου ADRIATinn Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου ανακοινώνει τη διοργάνωση συνεδρίου του έργου ADRIATinn, στο...",
@@ -1902,7 +2073,7 @@ var store = [
         {
           "title": "Pages",
           "url": "/site-gem/en/pages/",
-          "excerpt": "&lt;h2 id=\"courses\" class=\"archive__subtitle\"&gt;courses&lt;/h2&gt; &lt;h2 id=\"courses-en\" class=\"archive__subtitle\"&gt;courses-en&lt;/h2&gt; Artificial Inteligence Aim and scope of AI. Historical data. Problem Solving. Search. Blind and...",
+          "excerpt": "&lt;h2 id=\"administrative-assistants\" class=\"archive__subtitle\"&gt;administrative-assistants&lt;/h2&gt; &lt;h2 id=\"administrative-assistants-en\" class=\"archive__subtitle\"&gt;administrative-assistants-en&lt;/h2&gt; &lt;h2 id=\"courses\" class=\"archive__subtitle\"&gt;courses&lt;/h2&gt; &lt;h2 id=\"courses-en\" class=\"archive__subtitle\"&gt;courses-en&lt;/h2&gt; Artificial Inteligence Aim and scope of AI. Historical...",
           "teaser":
             
               null
@@ -2259,157 +2430,6 @@ var store = [
           "title": "Research Methods",
           "url": "/site-gem/en/msc/rm/",
           "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-    
-  
-    
-  
-    
-      
-      
-      
-        
-        {
-          "title": "Alexandros Panaretos ",
-          "url": "/site-gem/en/people/alex/",
-          "excerpt": "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Athanasios Alexiou",
-          "url": "/site-gem/en/people/alexiou/",
-          "excerpt": "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Elena Laskari",
-          "url": "/site-gem/en/people/elena/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Varvara Garneli",
-          "url": "/site-gem/en/people/garneli/",
-          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Konstantinos Giannakis",
-          "url": "/site-gem/en/people/giannakis/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ioannis Karydis",
-          "url": "/site-gem/en/people/karydis/",
-          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Patrick Mikalef",
-          "url": "/site-gem/en/people/mikalef/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ilias Pappas",
-          "url": "/site-gem/en/people/pappas/",
-          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "George Paxinos",
-          "url": "/site-gem/en/people/paxinos/",
-          "excerpt": "education:\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Maria Psiha",
-          "url": "/site-gem/en/people/psiha/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Spiros Voulgaris",
-          "url": "/site-gem/en/people/svoul/",
-          "excerpt": "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Swtiria-Sofia Aroniada",
-          "url": "/site-gem/en/people/swthria/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Bernd Wegner",
-          "url": "/site-gem/en/people/wegner/",
-          "excerpt": "education:\n",
           "teaser":
             
               null
