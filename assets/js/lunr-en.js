@@ -1107,10 +1107,10 @@ var idx = lunr(function () {
       
     
       idx.add({
-        title: null,
+        title: "Modelling of Dynamic Self-Organization and Repression of Population of Dakos in Real Ecosystem of Municipality of Saint George(Dakos)",
         excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form...",
         categories: [],
-        tags: null,
+        tags: [],
         id: 116
       });
       
@@ -2498,7 +2498,7 @@ var store = [
       
         
         {
-          "title": null,
+          "title": "Modelling of Dynamic Self-Organization and Repression of Population of Dakos in Real Ecosystem of Municipality of Saint George(Dakos)",
           "url": "/site-gem/en/projects/dakos/",
           "excerpt": "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form...",
           "teaser":
