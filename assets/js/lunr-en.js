@@ -747,7 +747,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "MSc Courses",
-        excerpt: "Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information Technology in Modern Organizations. Strategic Planning IT...",
+        excerpt: "COURSES 1ˢᵗ Semester 2ⁿᵈ Semester 1ˢᵗ Semester Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information...",
         categories: [],
         tags: [],
         id: 80
@@ -2062,7 +2062,7 @@ var store = [
         {
           "title": "MSc Courses",
           "url": "/site-gem/en/msc-courses/",
-          "excerpt": "Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information Technology in Modern Organizations. Strategic Planning IT...",
+          "excerpt": "COURSES 1ˢᵗ Semester 2ⁿᵈ Semester 1ˢᵗ Semester Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information...",
           "teaser":
             
               null
