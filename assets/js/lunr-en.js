@@ -711,7 +711,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Faculty",
-        excerpt: "Professors Vassilis Chrissikopoulos IT – Networks – Information Security Panagiotis Vlamos Mathematics in Application Modelling Assοciate Professors Dimitrios Tsoumakos Data...",
+        excerpt: "FACULTY Professors Assοciate Professors Assistant Professors Professors Panagiotis Vlamos Mathematics in Application Modelling Vassilis Chrissikopoulos IT – Networks – Information...",
         categories: [],
         tags: [],
         id: 76
@@ -2018,7 +2018,7 @@ var store = [
         {
           "title": "Faculty",
           "url": "/site-gem/en/faculty/",
-          "excerpt": "Professors Vassilis Chrissikopoulos IT – Networks – Information Security Panagiotis Vlamos Mathematics in Application Modelling Assοciate Professors Dimitrios Tsoumakos Data...",
+          "excerpt": "FACULTY Professors Assοciate Professors Assistant Professors Professors Panagiotis Vlamos Mathematics in Application Modelling Vassilis Chrissikopoulos IT – Networks – Information...",
           "teaser":
             
               null
@@ -2061,7 +2061,7 @@ var store = [
         
         {
           "title": "MSc Courses",
-          "url": "/site-gem/en/msc-courses/",
+          "url": "/site-gem/en/msc/",
           "excerpt": "COURSES 1ˢᵗ Semester 2ⁿᵈ Semester 1ˢᵗ Semester Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information...",
           "teaser":
             
