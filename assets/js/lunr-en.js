@@ -683,11 +683,20 @@ var idx = lunr(function () {
     
     
       idx.add({
+        title: "ERROR 404",
+        excerpt: "\n\nDepartment of Informatics, Ionian University\n\n\n\n\n\n\n\n\n  \n\n\n",
+        categories: [],
+        tags: [],
+        id: 73
+      });
+      
+    
+      idx.add({
         title: "Administrative Assistants",
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 73
+        id: 74
       });
       
     
@@ -696,7 +705,7 @@ var idx = lunr(function () {
         excerpt: "conference Διοργάνωση συνεδρίου του έργου ADRIATinn Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου ανακοινώνει τη διοργάνωση συνεδρίου του έργου ADRIATinn, στο...",
         categories: [],
         tags: [],
-        id: 74
+        id: 75
       });
       
     
@@ -705,7 +714,7 @@ var idx = lunr(function () {
         excerpt: "Approximately 100 students enter the Department of Informatics every year after taking the Panhellenic Admission Examinations. Also, 10% of the...",
         categories: [],
         tags: [],
-        id: 75
+        id: 76
       });
       
     
@@ -714,7 +723,7 @@ var idx = lunr(function () {
         excerpt: "FACULTY Professors Assοciate Professors Assistant Professors Professors Panagiotis Vlamos Mathematics in Application Modelling Vassilis Chrissikopoulos IT – Networks – Information...",
         categories: [],
         tags: [],
-        id: 76
+        id: 77
       });
       
     
@@ -723,7 +732,7 @@ var idx = lunr(function () {
         excerpt: "Bioinformatics and Human Electrophysiology Lab (BiHELab) The Bioinformatics and Human Electrophysiology Lab focus on recent advances in geriatrics and neurodegeneration,...",
         categories: [],
         tags: [],
-        id: 77
+        id: 78
       });
       
     
@@ -732,7 +741,7 @@ var idx = lunr(function () {
         excerpt: "Super Customizable Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter. Learn...",
         categories: [],
         tags: [],
-        id: 78
+        id: 79
       });
       
     
@@ -741,7 +750,7 @@ var idx = lunr(function () {
         excerpt: "",
         categories: [],
         tags: [],
-        id: 79
+        id: 80
       });
       
     
@@ -750,7 +759,7 @@ var idx = lunr(function () {
         excerpt: "COURSES 1ˢᵗ Semester 2ⁿᵈ Semester 1ˢᵗ Semester Administrative Information Systems A. Exploitation of Information Technology by Organizations: Importance of Information...",
         categories: [],
         tags: [],
-        id: 80
+        id: 81
       });
       
     
@@ -759,7 +768,7 @@ var idx = lunr(function () {
         excerpt: "&lt;h2 id=\"administrative-assistants\" class=\"archive__subtitle\"&gt;administrative-assistants&lt;/h2&gt; &lt;h2 id=\"administrative-assistants-en\" class=\"archive__subtitle\"&gt;administrative-assistants-en&lt;/h2&gt; &lt;h2 id=\"courses\" class=\"archive__subtitle\"&gt;courses&lt;/h2&gt; &lt;h2 id=\"courses-en\" class=\"archive__subtitle\"&gt;courses-en&lt;/h2&gt; Artificial Inteligence Aim and scope of AI. Historical...",
         categories: [],
         tags: [],
-        id: 81
+        id: 82
       });
       
     
@@ -768,7 +777,7 @@ var idx = lunr(function () {
         excerpt: "2017 Special Issue in Computational Aspects Related to Unconventional, Bioinspired and Quantum Methods The following special issue, of which we...",
         categories: [],
         tags: [],
-        id: 82
+        id: 83
       });
       
     
@@ -777,7 +786,7 @@ var idx = lunr(function () {
         excerpt: "Cultural Understanding through Learning and Technology (CULT) Project CULT aims to create a cooperation platform between schools that reside in...",
         categories: [],
         tags: [],
-        id: 83
+        id: 84
       });
       
     
@@ -786,7 +795,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 84
+        id: 85
       });
       
     
@@ -795,7 +804,7 @@ var idx = lunr(function () {
         excerpt: "Risk Perceptions and User Awareness XPath) e-Government and Information Systems Applied stochastic processes Markos Avlonitis Applied Stohastic Models Autonomic Networks...",
         categories: [],
         tags: [],
-        id: 85
+        id: 86
       });
       
     
@@ -811,7 +820,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
         categories: [],
         tags: ["Internet Programming","Dynamic algorithms for parallel and distributed systems","Query languages for the web (XML, XPath)","Temporal logics for automated synthesis and verification of reactive systems"],
-        id: 86
+        id: 87
       });
       
     
@@ -820,7 +829,7 @@ var idx = lunr(function () {
         excerpt: "education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
         categories: [],
         tags: ["Information Security Policies, Risk Perceptions and User Awareness","Information Security Risk Assessment and Management","Security Policies for Acceptable Internet Use","Privacy Enhancing Tools","Privacy Protection in Mobile Applications","Information Security and Privacy Standards","Theory Development and Research Methods in Information Systems","e-Services, e-Government and Information Systems"],
-        id: 87
+        id: 88
       });
       
     
@@ -829,7 +838,7 @@ var idx = lunr(function () {
         excerpt: "education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
         categories: [],
         tags: ["Applied stochastic processes","Self-organized systems","Modeling the spread of computer malware","Modeling and simulation of large scale networks"],
-        id: 88
+        id: 89
       });
       
     
@@ -838,7 +847,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Electronic and Computer Engineering, Technical University of Crete” “MSc. Marketing and Communication, Athens University of Economics and...",
         categories: [],
         tags: ["Computer-Supported Collaborative Work"],
-        id: 89
+        id: 90
       });
       
     
@@ -847,7 +856,7 @@ var idx = lunr(function () {
         excerpt: "education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
         categories: [],
         tags: ["Mobile and Distributed Computing","Context-aware and Pervasive Computing","Wireless Sensor Networks","Network-centric Information Systems"],
-        id: 90
+        id: 91
       });
       
     
@@ -856,7 +865,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
         categories: [],
         tags: ["Distributed Data Management","Data management in Cloud Computing","Internet Databases and DataWarehouses"],
-        id: 91
+        id: 92
       });
       
     
@@ -865,7 +874,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
         categories: [],
         tags: ["Cryptographic techniques for computer and network security","Security and Privacy in Internet applications"],
-        id: 92
+        id: 93
       });
       
     
@@ -874,7 +883,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
         categories: [],
         tags: ["Knowledge-assisted multimedia analysis","Multimedia information retrieval","Multimedia personalization","User adaptation","User modeling","User profiling","Visual context representation and analysis","Human-computer interaction"],
-        id: 93
+        id: 94
       });
       
     
@@ -883,7 +892,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
         categories: [],
         tags: ["Machine Learning","Natural Language Processing","User Modeling","Humanistic Informatics"],
-        id: 94
+        id: 95
       });
       
     
@@ -892,7 +901,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
         categories: [],
         tags: ["High-Performance Distributed Computer Systems","Real-time Embedded System Architectures","Pervasive Computing Systems"],
-        id: 95
+        id: 96
       });
       
     
@@ -901,7 +910,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
         categories: [],
         tags: ["Autonomic Networks","Network Performance Analysis","Medium Access Control"],
-        id: 96
+        id: 97
       });
       
     
@@ -910,7 +919,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
         categories: [],
         tags: ["Information Systems","E-Business & E-Governement","Mobile & Wireless Services","Strategic Management of ICT"],
-        id: 97
+        id: 98
       });
       
     
@@ -919,7 +928,7 @@ var idx = lunr(function () {
         excerpt: "education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
         categories: [],
         tags: ["Electronic Business","Electronic Government","Information Systems Management"],
-        id: 98
+        id: 99
       });
       
     
@@ -928,7 +937,7 @@ var idx = lunr(function () {
         excerpt: "education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
         categories: [],
         tags: ["Efficient I/O Algorithms & Data Structures","Computational Geometry and Computer Graphics","Spatio-Temporal and Multimedia Databases","Distributed Data Structures and Peer-to-Peer Computing","Parallel and Distributed Data Structures and Cloud Computing","Knowledge Data Discovery (KDD)","Data Mining Algorithms","Spatial Data Structures and Geographical Information Systems"],
-        id: 99
+        id: 100
       });
       
     
@@ -937,7 +946,7 @@ var idx = lunr(function () {
         excerpt: "education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
         tags: ["Security","Computer Networks"],
-        id: 100
+        id: 101
       });
       
     
@@ -946,7 +955,7 @@ var idx = lunr(function () {
         excerpt: "education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n\n",
         categories: [],
         tags: ["Mathematical modeling applied for image restoration purposes","Mathematical modeling applied to physical and Chemical Engineering problems","Mathematical modeling in Education with the use of new technologies"],
-        id: 101
+        id: 102
       });
       
     
@@ -964,7 +973,7 @@ var idx = lunr(function () {
         excerpt: "BiHELab interests lie within educational, research and development activities in the areas of neurogenerative diseases and their relations with mitochondrial...",
         categories: [],
         tags: [],
-        id: 102
+        id: 103
       });
       
     
@@ -973,7 +982,7 @@ var idx = lunr(function () {
         excerpt: "The fields of current research interest in the Laboratory of Computational Modeling in the Department of Informatics of the Ionian...",
         categories: [],
         tags: [],
-        id: 103
+        id: 104
       });
       
     
@@ -982,7 +991,7 @@ var idx = lunr(function () {
         excerpt: "On the other hand, it employs methodologies adapted from these scientific and artistic areas in order to supply ICT products...",
         categories: [],
         tags: [],
-        id: 104
+        id: 105
       });
       
     
@@ -991,7 +1000,7 @@ var idx = lunr(function () {
         excerpt: "The main focus of the Information Systems research actions is on: Management Information Systems (MIS) Strategic Decision Making Business Intelligence...",
         categories: [],
         tags: [],
-        id: 105
+        id: 106
       });
       
     
@@ -1000,7 +1009,7 @@ var idx = lunr(function () {
         excerpt: "The education role of NMSLab is to support courses in computer networks, multimedia systems with respect to cultural applications, computer...",
         categories: [],
         tags: [],
-        id: 106
+        id: 107
       });
       
     
@@ -1009,7 +1018,7 @@ var idx = lunr(function () {
         excerpt: "Our current areas of research include: Quantum Automata Automata on infinite inputs Modeling with Membrane automata SPARQL Queries and Finite...",
         categories: [],
         tags: [],
-        id: 107
+        id: 108
       });
       
     
@@ -1025,7 +1034,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 108
+        id: 109
       });
       
     
@@ -1034,7 +1043,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 109
+        id: 110
       });
       
     
@@ -1043,7 +1052,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 110
+        id: 111
       });
       
     
@@ -1052,7 +1061,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 111
+        id: 112
       });
       
     
@@ -1068,7 +1077,7 @@ var idx = lunr(function () {
         excerpt: "The following special issue, of which we are the guest editors will be published in “Computation” (ISSN 2079-3197, http://www.mdpi.com/journal/computation), and...",
         categories: ["journal","QUIT"],
         tags: [],
-        id: 112
+        id: 113
       });
       
     
@@ -1077,7 +1086,7 @@ var idx = lunr(function () {
         excerpt: "The topics of the workshop include Hybrid Imaging and Personalized Medicine Radiation Protection in Medical Physics Innovation in Medical Physics...",
         categories: ["workshop"],
         tags: [],
-        id: 113
+        id: 114
       });
       
     
@@ -1093,7 +1102,7 @@ var idx = lunr(function () {
         excerpt: "CULT (MC-ERG-2008-230894) is a Marie Curie European Reintegration Grants (ERG) project funded by the European Commission (EC) under the 7th...",
         categories: [],
         tags: [],
-        id: 114
+        id: 115
       });
       
     
@@ -1102,7 +1111,7 @@ var idx = lunr(function () {
         excerpt: "The D-Space project’s main objectives are: The demonstration and piloting of the D-Space service to the target users in real...",
         categories: [],
         tags: [],
-        id: 115
+        id: 116
       });
       
     
@@ -1111,7 +1120,7 @@ var idx = lunr(function () {
         excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form...",
         categories: [],
         tags: [],
-        id: 116
+        id: 117
       });
       
     
@@ -1120,7 +1129,7 @@ var idx = lunr(function () {
         excerpt: "\n",
         categories: [],
         tags: [],
-        id: 117
+        id: 118
       });
       
     
@@ -1129,7 +1138,7 @@ var idx = lunr(function () {
         excerpt: "The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region....",
         categories: [],
         tags: [],
-        id: 118
+        id: 119
       });
       
     
@@ -1138,7 +1147,7 @@ var idx = lunr(function () {
         excerpt: "Archimedes III – National Strategic Reference Framework (NSRF) 2007-2013 Duration: 01/2012-12/2014 PromO(nto)tion proposes the development of a semantic thesaurus of...",
         categories: [],
         tags: [],
-        id: 119
+        id: 120
       });
       
     
@@ -1147,7 +1156,7 @@ var idx = lunr(function () {
         excerpt: "Duration: 01/02/2015 – 31/01/2018 Programme: Ηorizon 2020 Budget: 3,270,710.00€ Massive Open Online Courses have been growing rapidly in size and...",
         categories: [],
         tags: [],
-        id: 120
+        id: 121
       });
       
     
@@ -1980,6 +1989,17 @@ var store = [
     
       
       
+      
+        
+        {
+          "title": "ERROR 404",
+          "url": "/site-gem/404.html",
+          "excerpt": "\n\nDepartment of Informatics, Ionian University\n\n\n\n\n\n\n\n\n  \n\n\n",
+          "teaser":
+            
+              null
+            
+        },
       
         
         {
