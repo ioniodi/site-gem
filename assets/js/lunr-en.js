@@ -916,7 +916,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Theodore Andronikos",
-        excerpt: "education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
+        excerpt: "Education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
         categories: [],
         tags: ["Internet Programming","Dynamic algorithms for parallel and distributed systems","Query languages for the web (XML, XPath)","Temporal logics for automated synthesis and verification of reactive systems"],
         id: 97
@@ -925,7 +925,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Aggeliki Tsohou",
-        excerpt: "education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
+        excerpt: "Education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
         categories: [],
         tags: ["Information Security Policies, Risk Perceptions and User Awareness","Information Security Risk Assessment and Management","Security Policies for Acceptable Internet Use","Privacy Enhancing Tools","Privacy Protection in Mobile Applications","Information Security and Privacy Standards","Theory Development and Research Methods in Information Systems","e-Services, e-Government and Information Systems"],
         id: 98
@@ -934,7 +934,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Markos Avlonitis",
-        excerpt: "education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
+        excerpt: "Education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
         categories: [],
         tags: ["Applied stochastic processes","Self-organized systems","Modeling the spread of computer malware","Modeling and simulation of large scale networks"],
         id: 99
@@ -952,7 +952,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Christos Anagnostopoulos",
-        excerpt: "education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
+        excerpt: "Education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
         categories: [],
         tags: ["Mobile and Distributed Computing","Context-aware and Pervasive Computing","Wireless Sensor Networks","Network-centric Information Systems"],
         id: 101
@@ -961,7 +961,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Dimitrios Tsoumakos",
-        excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
+        excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
         categories: [],
         tags: ["Distributed Data Management","Data management in Cloud Computing","Internet Databases and DataWarehouses"],
         id: 102
@@ -970,7 +970,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Emmanouil Magos",
-        excerpt: "education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
+        excerpt: "Education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
         categories: [],
         tags: ["Cryptographic techniques for computer and network security","Security and Privacy in Internet applications"],
         id: 103
@@ -979,7 +979,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Phivos Mylonas",
-        excerpt: "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
+        excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
         categories: [],
         tags: ["Knowledge-assisted multimedia analysis","Multimedia information retrieval","Multimedia personalization","User adaptation","User modeling","User profiling","Visual context representation and analysis","Human-computer interaction"],
         id: 104
@@ -988,7 +988,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Katia Lida Kermanidis",
-        excerpt: "education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
+        excerpt: "Education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
         categories: [],
         tags: ["Machine Learning","Natural Language Processing","User Modeling","Humanistic Informatics"],
         id: 105
@@ -997,7 +997,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Michalis Stefanidakis",
-        excerpt: "education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
+        excerpt: "Education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
         categories: [],
         tags: ["High-Performance Distributed Computer Systems","Real-time Embedded System Architectures","Pervasive Computing Systems"],
         id: 106
@@ -1006,7 +1006,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Konstantinos Oikonomou",
-        excerpt: "education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
+        excerpt: "Education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
         categories: [],
         tags: ["Autonomic Networks","Network Performance Analysis","Medium Access Control"],
         id: 107
@@ -1015,7 +1015,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Adamantia Pateli",
-        excerpt: "education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
+        excerpt: "Education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
         categories: [],
         tags: ["Information Systems","E-Business & E-Governement","Mobile & Wireless Services","Strategic Management of ICT"],
         id: 108
@@ -1024,7 +1024,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Panagiotis Kourouthanassis",
-        excerpt: "education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
+        excerpt: "Education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
         categories: [],
         tags: ["Electronic Business","Electronic Government","Information Systems Management"],
         id: 109
@@ -1033,7 +1033,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Spyros Sioutas",
-        excerpt: "education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
+        excerpt: "Education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
         categories: [],
         tags: ["Efficient I/O Algorithms & Data Structures","Computational Geometry and Computer Graphics","Spatio-Temporal and Multimedia Databases","Distributed Data Structures and Peer-to-Peer Computing","Parallel and Distributed Data Structures and Cloud Computing","Knowledge Data Discovery (KDD)","Data Mining Algorithms","Spatial Data Structures and Geographical Information Systems"],
         id: 110
@@ -1042,7 +1042,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Vassilis Chrissikopoulos",
-        excerpt: "education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
+        excerpt: "Education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
         tags: ["Security","Computer Networks"],
         id: 111
@@ -1051,7 +1051,7 @@ var idx = lunr(function () {
     
       idx.add({
         title: "Panagiotis Vlamos",
-        excerpt: "education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n\n",
+        excerpt: "Education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n",
         categories: [],
         tags: ["Mathematical modeling applied for image restoration purposes","Mathematical modeling applied to physical and Chemical Engineering problems","Mathematical modeling in Education with the use of new technologies"],
         id: 112
@@ -2269,7 +2269,7 @@ var store = [
         {
           "title": "Theodore Andronikos",
           "url": "/site-gem/en/faculty/andronikos/",
-          "excerpt": "education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
+          "excerpt": "Education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
           "teaser":
             
               null
@@ -2280,7 +2280,7 @@ var store = [
         {
           "title": "Aggeliki Tsohou",
           "url": "/site-gem/en/faculty/atsohou/",
-          "excerpt": "education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
+          "excerpt": "Education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
           "teaser":
             
               null
@@ -2291,7 +2291,7 @@ var store = [
         {
           "title": "Markos Avlonitis",
           "url": "/site-gem/en/faculty/avlonitis/",
-          "excerpt": "education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
+          "excerpt": "Education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
           "teaser":
             
               null
@@ -2313,7 +2313,7 @@ var store = [
         {
           "title": "Christos Anagnostopoulos",
           "url": "/site-gem/en/faculty/christos/",
-          "excerpt": "education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
+          "excerpt": "Education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
           "teaser":
             
               null
@@ -2324,7 +2324,7 @@ var store = [
         {
           "title": "Dimitrios Tsoumakos",
           "url": "/site-gem/en/faculty/dtsouma/",
-          "excerpt": "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
+          "excerpt": "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
           "teaser":
             
               null
@@ -2335,7 +2335,7 @@ var store = [
         {
           "title": "Emmanouil Magos",
           "url": "/site-gem/en/faculty/emagos/",
-          "excerpt": "education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
+          "excerpt": "Education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
           "teaser":
             
               null
@@ -2346,7 +2346,7 @@ var store = [
         {
           "title": "Phivos Mylonas",
           "url": "/site-gem/en/faculty/fmylonas/",
-          "excerpt": "education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
+          "excerpt": "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
           "teaser":
             
               null
@@ -2357,7 +2357,7 @@ var store = [
         {
           "title": "Katia Lida Kermanidis",
           "url": "/site-gem/en/faculty/kerman/",
-          "excerpt": "education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
+          "excerpt": "Education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
           "teaser":
             
               null
@@ -2368,7 +2368,7 @@ var store = [
         {
           "title": "Michalis Stefanidakis",
           "url": "/site-gem/en/faculty/mistral/",
-          "excerpt": "education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
+          "excerpt": "Education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
           "teaser":
             
               null
@@ -2379,7 +2379,7 @@ var store = [
         {
           "title": "Konstantinos Oikonomou",
           "url": "/site-gem/en/faculty/okon/",
-          "excerpt": "education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
+          "excerpt": "Education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
           "teaser":
             
               null
@@ -2390,7 +2390,7 @@ var store = [
         {
           "title": "Adamantia Pateli",
           "url": "/site-gem/en/faculty/pateli/",
-          "excerpt": "education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
+          "excerpt": "Education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
           "teaser":
             
               null
@@ -2401,7 +2401,7 @@ var store = [
         {
           "title": "Panagiotis Kourouthanassis",
           "url": "/site-gem/en/faculty/pkour/",
-          "excerpt": "education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
+          "excerpt": "Education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
           "teaser":
             
               null
@@ -2412,7 +2412,7 @@ var store = [
         {
           "title": "Spyros Sioutas",
           "url": "/site-gem/en/faculty/sioutas/",
-          "excerpt": "education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
+          "excerpt": "Education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
           "teaser":
             
               null
@@ -2423,7 +2423,7 @@ var store = [
         {
           "title": "Vassilis Chrissikopoulos",
           "url": "/site-gem/en/faculty/vchris/",
-          "excerpt": "education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
+          "excerpt": "Education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
           "teaser":
             
               null
@@ -2434,7 +2434,7 @@ var store = [
         {
           "title": "Panagiotis Vlamos",
           "url": "/site-gem/en/faculty/vlamos/",
-          "excerpt": "education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n\n",
+          "excerpt": "Education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n",
           "teaser":
             
               null
