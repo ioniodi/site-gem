@@ -690,110 +690,11 @@ var idx = lunr(function () {
       
     
       idx.add({
-        title: "Elena Laskari",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 72
-      });
-      
-    
-      idx.add({
-        title: "Varvara Garneli",
-        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-        categories: [],
-        tags: ["Computing Education"],
-        id: 73
-      });
-      
-    
-      idx.add({
-        title: "Konstantinos Giannakis",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-        categories: [],
-        tags: ["Theoretical Computer Science"],
-        id: 74
-      });
-      
-    
-      idx.add({
-        title: "Ioannis Karydis",
-        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-        categories: ["HILab"],
-        tags: ["Decision Support Systems","Speech and Audio Processing"],
-        id: 75
-      });
-      
-    
-      idx.add({
-        title: "Patrick Mikalef",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-        categories: [],
-        tags: ["IT Strategy"],
-        id: 76
-      });
-      
-    
-      idx.add({
-        title: "Ilias Pappas",
-        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-        categories: [],
-        tags: ["E-Commerce"],
-        id: 77
-      });
-      
-    
-      idx.add({
-        title: "George Paxinos",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Neuroscience"],
-        id: 78
-      });
-      
-    
-      idx.add({
-        title: "Maria Psiha",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-        categories: [],
-        tags: ["Bioinformatics"],
-        id: 79
-      });
-      
-    
-      idx.add({
-        title: "Spiros Voulgaris",
-        excerpt: "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
-        categories: [],
-        tags: [],
-        id: 80
-      });
-      
-    
-      idx.add({
-        title: "Swtiria-Sofia Aroniada",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 81
-      });
-      
-    
-      idx.add({
-        title: "Bernd Wegner",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Mathematics"],
-        id: 82
-      });
-      
-    
-      idx.add({
         title: "Theodore Andronikos",
         excerpt: "Education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
         categories: [],
         tags: ["Internet Programming","Dynamic algorithms for parallel and distributed systems","Query languages for the web (XML, XPath)","Temporal logics for automated synthesis and verification of reactive systems"],
-        id: 83
+        id: 72
       });
       
     
@@ -802,7 +703,7 @@ var idx = lunr(function () {
         excerpt: "Education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
         categories: [],
         tags: ["Information Security Policies, Risk Perceptions and User Awareness","Information Security Risk Assessment and Management","Security Policies for Acceptable Internet Use","Privacy Enhancing Tools","Privacy Protection in Mobile Applications","Information Security and Privacy Standards","Theory Development and Research Methods in Information Systems","e-Services, e-Government and Information Systems"],
-        id: 84
+        id: 73
       });
       
     
@@ -811,7 +712,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
         categories: [],
         tags: ["Applied stochastic processes","Self-organized systems","Modeling the spread of computer malware","Modeling and simulation of large scale networks"],
-        id: 85
+        id: 74
       });
       
     
@@ -820,7 +721,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Electronic and Computer Engineering, Technical University of Crete” “MSc. Marketing and Communication, Athens University of Economics and...",
         categories: [],
         tags: ["Computer-Supported Collaborative Work"],
-        id: 86
+        id: 75
       });
       
     
@@ -829,7 +730,7 @@ var idx = lunr(function () {
         excerpt: "Education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
         categories: [],
         tags: ["Mobile and Distributed Computing","Context-aware and Pervasive Computing","Wireless Sensor Networks","Network-centric Information Systems"],
-        id: 87
+        id: 76
       });
       
     
@@ -838,7 +739,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
         categories: [],
         tags: ["Distributed Data Management","Data management in Cloud Computing","Internet Databases and DataWarehouses"],
-        id: 88
+        id: 77
+      });
+      
+    
+      idx.add({
+        title: "Elena Laskari",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 78
       });
       
     
@@ -847,7 +757,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
         categories: [],
         tags: ["Cryptographic techniques for computer and network security","Security and Privacy in Internet applications"],
-        id: 89
+        id: 79
       });
       
     
@@ -856,7 +766,34 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
         categories: [],
         tags: ["Knowledge-assisted multimedia analysis","Multimedia information retrieval","Multimedia personalization","User adaptation","User modeling","User profiling","Visual context representation and analysis","Human-computer interaction"],
-        id: 90
+        id: 80
+      });
+      
+    
+      idx.add({
+        title: "Varvara Garneli",
+        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+        categories: [],
+        tags: ["Computing Education"],
+        id: 81
+      });
+      
+    
+      idx.add({
+        title: "Konstantinos Giannakis",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+        categories: [],
+        tags: ["Theoretical Computer Science"],
+        id: 82
+      });
+      
+    
+      idx.add({
+        title: "Ioannis Karydis",
+        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+        categories: ["HILab"],
+        tags: ["Decision Support Systems","Speech and Audio Processing"],
+        id: 83
       });
       
     
@@ -865,7 +802,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
         categories: [],
         tags: ["Machine Learning","Natural Language Processing","User Modeling","Humanistic Informatics"],
-        id: 91
+        id: 84
+      });
+      
+    
+      idx.add({
+        title: "Patrick Mikalef",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+        categories: [],
+        tags: ["IT Strategy"],
+        id: 85
       });
       
     
@@ -874,7 +820,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
         categories: [],
         tags: ["High-Performance Distributed Computer Systems","Real-time Embedded System Architectures","Pervasive Computing Systems"],
-        id: 92
+        id: 86
       });
       
     
@@ -883,7 +829,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
         categories: [],
         tags: ["Autonomic Networks","Network Performance Analysis","Medium Access Control"],
-        id: 93
+        id: 87
+      });
+      
+    
+      idx.add({
+        title: "Ilias Pappas",
+        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+        categories: [],
+        tags: ["E-Commerce"],
+        id: 88
       });
       
     
@@ -892,7 +847,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
         categories: [],
         tags: ["Information Systems","E-Business & E-Governement","Mobile & Wireless Services","Strategic Management of ICT"],
-        id: 94
+        id: 89
+      });
+      
+    
+      idx.add({
+        title: "George Paxinos",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Neuroscience"],
+        id: 90
       });
       
     
@@ -901,7 +865,16 @@ var idx = lunr(function () {
         excerpt: "Education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
         categories: [],
         tags: ["Electronic Business","Electronic Government","Information Systems Management"],
-        id: 95
+        id: 91
+      });
+      
+    
+      idx.add({
+        title: "Maria Psiha",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+        categories: [],
+        tags: ["Bioinformatics"],
+        id: 92
       });
       
     
@@ -910,7 +883,25 @@ var idx = lunr(function () {
         excerpt: "Education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
         categories: [],
         tags: ["Efficient I/O Algorithms & Data Structures","Computational Geometry and Computer Graphics","Spatio-Temporal and Multimedia Databases","Distributed Data Structures and Peer-to-Peer Computing","Parallel and Distributed Data Structures and Cloud Computing","Knowledge Data Discovery (KDD)","Data Mining Algorithms","Spatial Data Structures and Geographical Information Systems"],
-        id: 96
+        id: 93
+      });
+      
+    
+      idx.add({
+        title: "Spiros Voulgaris",
+        excerpt: "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
+        categories: [],
+        tags: [],
+        id: 94
+      });
+      
+    
+      idx.add({
+        title: "Swtiria-Sofia Aroniada",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 95
       });
       
     
@@ -919,7 +910,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
         tags: ["Security","Computer Networks"],
-        id: 97
+        id: 96
       });
       
     
@@ -928,6 +919,15 @@ var idx = lunr(function () {
         excerpt: "Education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n",
         categories: [],
         tags: ["Mathematical modeling applied for image restoration purposes","Mathematical modeling applied to physical and Chemical Engineering problems","Mathematical modeling in Education with the use of new technologies"],
+        id: 97
+      });
+      
+    
+      idx.add({
+        title: "Bernd Wegner",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Mathematics"],
         id: 98
       });
       
@@ -1845,7 +1845,7 @@ var store = [
         
         {
           "title": "Alexandros Panaretos ",
-          "url": "/site-gem/en/administrative-assistants/alex/",
+          "url": "/site-gem/en/people/alex/",
           "excerpt": "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
           "teaser":
             
@@ -1856,7 +1856,7 @@ var store = [
         
         {
           "title": "Athanasios Alexiou",
-          "url": "/site-gem/en/administrative-assistants/alexiou/",
+          "url": "/site-gem/en/people/alexiou/",
           "excerpt": "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
           "teaser":
             
@@ -1866,129 +1866,8 @@ var store = [
       
         
         {
-          "title": "Elena Laskari",
-          "url": "/site-gem/en/administrative-assistants/elena/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Varvara Garneli",
-          "url": "/site-gem/en/administrative-assistants/garneli/",
-          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Konstantinos Giannakis",
-          "url": "/site-gem/en/administrative-assistants/giannakis/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ioannis Karydis",
-          "url": "/site-gem/en/administrative-assistants/karydis/",
-          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Patrick Mikalef",
-          "url": "/site-gem/en/administrative-assistants/mikalef/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ilias Pappas",
-          "url": "/site-gem/en/administrative-assistants/pappas/",
-          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "George Paxinos",
-          "url": "/site-gem/en/administrative-assistants/paxinos/",
-          "excerpt": "education:\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Maria Psiha",
-          "url": "/site-gem/en/administrative-assistants/psiha/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Spiros Voulgaris",
-          "url": "/site-gem/en/administrative-assistants/svoul/",
-          "excerpt": "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Swtiria-Sofia Aroniada",
-          "url": "/site-gem/en/administrative-assistants/swthria/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Bernd Wegner",
-          "url": "/site-gem/en/administrative-assistants/wegner/",
-          "excerpt": "education:\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
           "title": "Theodore Andronikos",
-          "url": "/site-gem/en/faculty/andronikos/",
+          "url": "/site-gem/en/people/andronikos/",
           "excerpt": "Education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
           "teaser":
             
@@ -1999,7 +1878,7 @@ var store = [
         
         {
           "title": "Aggeliki Tsohou",
-          "url": "/site-gem/en/faculty/atsohou/",
+          "url": "/site-gem/en/people/atsohou/",
           "excerpt": "Education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
           "teaser":
             
@@ -2010,7 +1889,7 @@ var store = [
         
         {
           "title": "Markos Avlonitis",
-          "url": "/site-gem/en/faculty/avlonitis/",
+          "url": "/site-gem/en/people/avlonitis/",
           "excerpt": "Education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
           "teaser":
             
@@ -2021,7 +1900,7 @@ var store = [
         
         {
           "title": "Konstantinos Chorianopoulos",
-          "url": "/site-gem/en/faculty/choko/",
+          "url": "/site-gem/en/people/choko/",
           "excerpt": "Education: “Diploma in Electronic and Computer Engineering, Technical University of Crete” “MSc. Marketing and Communication, Athens University of Economics and...",
           "teaser":
             
@@ -2032,7 +1911,7 @@ var store = [
         
         {
           "title": "Christos Anagnostopoulos",
-          "url": "/site-gem/en/faculty/christos/",
+          "url": "/site-gem/en/people/christos/",
           "excerpt": "Education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
           "teaser":
             
@@ -2043,7 +1922,7 @@ var store = [
         
         {
           "title": "Dimitrios Tsoumakos",
-          "url": "/site-gem/en/faculty/dtsouma/",
+          "url": "/site-gem/en/people/dtsouma/",
           "excerpt": "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
           "teaser":
             
@@ -2053,8 +1932,19 @@ var store = [
       
         
         {
+          "title": "Elena Laskari",
+          "url": "/site-gem/en/people/elena/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Emmanouil Magos",
-          "url": "/site-gem/en/faculty/emagos/",
+          "url": "/site-gem/en/people/emagos/",
           "excerpt": "Education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
           "teaser":
             
@@ -2065,7 +1955,7 @@ var store = [
         
         {
           "title": "Phivos Mylonas",
-          "url": "/site-gem/en/faculty/fmylonas/",
+          "url": "/site-gem/en/people/fmylonas/",
           "excerpt": "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
           "teaser":
             
@@ -2075,8 +1965,41 @@ var store = [
       
         
         {
+          "title": "Varvara Garneli",
+          "url": "/site-gem/en/people/garneli/",
+          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Konstantinos Giannakis",
+          "url": "/site-gem/en/people/giannakis/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Ioannis Karydis",
+          "url": "/site-gem/en/people/karydis/",
+          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Katia Lida Kermanidis",
-          "url": "/site-gem/en/faculty/kerman/",
+          "url": "/site-gem/en/people/kerman/",
           "excerpt": "Education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
           "teaser":
             
@@ -2086,8 +2009,19 @@ var store = [
       
         
         {
+          "title": "Patrick Mikalef",
+          "url": "/site-gem/en/people/mikalef/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Michalis Stefanidakis",
-          "url": "/site-gem/en/faculty/mistral/",
+          "url": "/site-gem/en/people/mistral/",
           "excerpt": "Education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
           "teaser":
             
@@ -2098,7 +2032,7 @@ var store = [
         
         {
           "title": "Konstantinos Oikonomou",
-          "url": "/site-gem/en/faculty/okon/",
+          "url": "/site-gem/en/people/okon/",
           "excerpt": "Education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
           "teaser":
             
@@ -2108,8 +2042,19 @@ var store = [
       
         
         {
+          "title": "Ilias Pappas",
+          "url": "/site-gem/en/people/pappas/",
+          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Adamantia Pateli",
-          "url": "/site-gem/en/faculty/pateli/",
+          "url": "/site-gem/en/people/pateli/",
           "excerpt": "Education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
           "teaser":
             
@@ -2119,8 +2064,19 @@ var store = [
       
         
         {
+          "title": "George Paxinos",
+          "url": "/site-gem/en/people/paxinos/",
+          "excerpt": "education:\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Panagiotis Kourouthanassis",
-          "url": "/site-gem/en/faculty/pkour/",
+          "url": "/site-gem/en/people/pkour/",
           "excerpt": "Education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
           "teaser":
             
@@ -2130,8 +2086,19 @@ var store = [
       
         
         {
+          "title": "Maria Psiha",
+          "url": "/site-gem/en/people/psiha/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Spyros Sioutas",
-          "url": "/site-gem/en/faculty/sioutas/",
+          "url": "/site-gem/en/people/sioutas/",
           "excerpt": "Education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
           "teaser":
             
@@ -2141,8 +2108,30 @@ var store = [
       
         
         {
+          "title": "Spiros Voulgaris",
+          "url": "/site-gem/en/people/svoul/",
+          "excerpt": "education: “Bachelor, Department of Electrical and Mechanical Engineering Computer, National Technical University of Athens” “Graduate, Department of Archives and Librarianship,...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Swtiria-Sofia Aroniada",
+          "url": "/site-gem/en/people/swthria/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Vassilis Chrissikopoulos",
-          "url": "/site-gem/en/faculty/vchris/",
+          "url": "/site-gem/en/people/vchris/",
           "excerpt": "Education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
           "teaser":
             
@@ -2153,8 +2142,19 @@ var store = [
         
         {
           "title": "Panagiotis Vlamos",
-          "url": "/site-gem/en/faculty/vlamos/",
+          "url": "/site-gem/en/people/vlamos/",
           "excerpt": "Education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Bernd Wegner",
+          "url": "/site-gem/en/people/wegner/",
+          "excerpt": "education:\n",
           "teaser":
             
               null

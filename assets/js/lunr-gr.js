@@ -1192,110 +1192,11 @@ var idx = lunr(function () {
       
     
       idx.add({
-        title: "Έλενα Λάσκαρι",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 73
-      });
-      
-    
-      idx.add({
-        title: "Βαρβάρα Γαρνέλη",
-        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-        categories: [],
-        tags: ["Computing Education"],
-        id: 74
-      });
-      
-    
-      idx.add({
-        title: "Κωνσταντίνος Γιαννάκης",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-        categories: [],
-        tags: ["Theoretical Computer Science"],
-        id: 75
-      });
-      
-    
-      idx.add({
-        title: "Ιωάννης Καρύδης",
-        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-        categories: ["HILab"],
-        tags: ["Συστήματα Υποστήριξης Αποφάσεων","Επεξεργασία Ομιλίας και Ήχου"],
-        id: 76
-      });
-      
-    
-      idx.add({
-        title: "Πάτρικ Μικάλεφ",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-        categories: [],
-        tags: ["IT Strategy"],
-        id: 77
-      });
-      
-    
-      idx.add({
-        title: "Ηλίας Παππάς",
-        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-        categories: [],
-        tags: ["E-Commerce"],
-        id: 78
-      });
-      
-    
-      idx.add({
-        title: "Γεώργιος Παξινός",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Neuroscience"],
-        id: 79
-      });
-      
-    
-      idx.add({
-        title: "Μαρία Ψύχα",
-        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-        categories: [],
-        tags: ["Bioinformatics"],
-        id: 80
-      });
-      
-    
-      idx.add({
-        title: "Σπύρος Βούλγαρης",
-        excerpt: "education:\n\n  “Πτυχίο, Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχ. Η/Υ, Εθνικό Μετσόβιο Πολυτεχνείο”\n  “Μεταπτυχιακό, Τμήμα Αρχειονομίας και Βιβλιοθηκονομίας, Ιόνιο Παναεπιστήμιο”\n\n\n",
-        categories: [],
-        tags: [],
-        id: 81
-      });
-      
-    
-      idx.add({
-        title: "Σωτηρία-Σοφία Αρωνιάδα",
-        excerpt: "\n",
-        categories: [],
-        tags: [],
-        id: 82
-      });
-      
-    
-      idx.add({
-        title: "Bernd Wegner",
-        excerpt: "education:\n",
-        categories: [],
-        tags: ["Mathematics"],
-        id: 83
-      });
-      
-    
-      idx.add({
         title: "Θεόδωρος Ανδρόνικος",
         excerpt: "Education: “Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών με κατεύθυνση Πληροφορικής από τη Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Εθνικού...",
         categories: [],
         tags: ["Διαδικτυακός προγραμματισμός","Δυναμικοί αλγόριθμοι για παράλληλα & κατανεμημένα ετερογενή συστήματα","Αλγόριθμοι ερωταποκρίσεων για διαδικτυακά δεδομένα (XML, XPath)","Χρονικές (Temporal) λογικές για αυτόματη επαλήθευση και σύνθεση συστημάτων"],
-        id: 84
+        id: 73
       });
       
     
@@ -1304,7 +1205,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Πτυχίο Πληροφορικής, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Πληροφοριακά Συστήματα», Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Διδακτορικό...",
         categories: [],
         tags: ["Πολιτικές Ασφάλειας, Αντιλήψεις Επικινδυνότητας και Ενημερότητα Χρηστών","Ανάλυση Επικινδυνότητας και Διοίκηση Ασφάλειας Πληροφοριών","Πολιτικές Ασφάλειας για την Ορθή Χρήση του Διαδικτύου","Ιδιωτικότητα και Εργαλεία Ενίσχυσης της Ιδιωτικότητας","Ιδιωτικότητα σε Δικτυακές Εφαρμογές Κινητών Συσκευών","Πρότυπα Ασφάλειας και Ιδιωτικότητας","Ηλεκτρονικές Υπηρεσίες, Ηλεκτρονική Διακυβέρνηση και Πληροφοριακά Συστήματα"],
-        id: 85
+        id: 74
       });
       
     
@@ -1313,7 +1214,7 @@ var idx = lunr(function () {
         excerpt: "Education:\n\n  “Πτυχίο Φυσικής, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Σχολή Θετικών Επιστημών”\n  “Διδακτορικό Δίπλωμα στη Μηχανική, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Πολυτεχνική Σχολή”\n\n",
         categories: [],
         tags: ["Εφαρμοσμένες στοχαστικές διεργασίες (επιστήμη υπολογιστών, μηχανική, περιβάλλον)","Συστήματα αυτοοργάνωσης","Εξάπλωση κακόβουλου λογισμικού","Μοντελοποίηση και προσομοίωση δικτύων μεγάλης κλίμακας"],
-        id: 86
+        id: 75
       });
       
     
@@ -1322,7 +1223,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Ηλεκτρονικών Μηχανικών και Μηχανικών Υπολογιστών, Πολυτεχνείο Κρήτης” “Μεταπτυχιακό Μάρκετινγκ και Επικοινωνία με Νέες Τεχνολογίες, Τμήμα Μάρκετινγκ και Επικοινωνίας,...",
         categories: [],
         tags: ["Κοινωνικά και Συνεργατικά Συστήματα"],
-        id: 87
+        id: 76
       });
       
     
@@ -1331,7 +1232,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Πτυχίο Τμήματος Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης “Προηγμένα Πληροφοριακά Συστήματα”, Τμήμα Πληροφορικής και...",
         categories: [],
         tags: ["Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)","Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)","Ασύρματα Δίκτυα Αισθητήρων (Wireless Sensor Networks)","Δικτυοκεντρικά Πληροφοριακά Συστήματα (Network-centric Information Systems)"],
-        id: 88
+        id: 77
       });
       
     
@@ -1340,7 +1241,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Πτυχίο Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ, Τμήμα Ηλεκτρολόγων Μηχ. και Μηχ. Υπολογιστών, Εθνικό Μετσόβιο Πολυτεχνείο. Τίτλος Διπλωματικής Εργασίας: ‘Ηλεκτρονικός...",
         categories: [],
         tags: ["Κατανεμημένη διαχείριση δεδομένων","Υπολογιστικά νέφη και διαχείριση δεδομένων","Βάσεις δεδομένων και αποθήκες δεδομένων στο διαδίκτυο"],
-        id: 89
+        id: 78
+      });
+      
+    
+      idx.add({
+        title: "Έλενα Λάσκαρι",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 79
       });
       
     
@@ -1349,7 +1259,7 @@ var idx = lunr(function () {
         excerpt: "Education:\n\n  “Πτυχίο Πληροφορικής, Πανεπιστήμιο Πειραιώς”\n  “Διδακτορικό Δίπλωμα σε “Ασφαλή Ηλεκτρονικά Συστήματα Συναλλαγών μέσω Internet”, Πανεπιστήμιο Πειραιώς”\n\n",
         categories: [],
         tags: ["Κρυπτογραφικές Τεχνικές στην Ασφάλεια Υπολογιστών και Δικτύων","Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο","Ασφάλεια και Ιδιωτικότητα σε Κατανεμημένες Εφαρμογές"],
-        id: 90
+        id: 80
       });
       
     
@@ -1358,7 +1268,34 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Ηλεκτρονικών Υπολογιστών, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών, Ε.Μ.Π., 2001” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης...",
         categories: [],
         tags: ["Υποβοηθούμενη από γνώση Ανάλυση Πολυμεσικού Περιεχομένου","Ανάκτηση Πολυμεσικής Πληροφορίας","Προσωποποίηση Πολυμεσικού Περιεχομένου","Προσαρμογή Πολυμεσικού Περιεχομένου στο χρήστη","Μοντελοποίηση χρηστών","Εξαγωγή προφίλ χρηστών","Αναπαράσταση και Ανάλυση οπτικού εννοιολογικού πλαισίου (visual context)","Αλληλεπίδραση ανθρώπου-υπολογιστή"],
-        id: 91
+        id: 81
+      });
+      
+    
+      idx.add({
+        title: "Βαρβάρα Γαρνέλη",
+        excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+        categories: [],
+        tags: ["Computing Education"],
+        id: 82
+      });
+      
+    
+      idx.add({
+        title: "Κωνσταντίνος Γιαννάκης",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+        categories: [],
+        tags: ["Theoretical Computer Science"],
+        id: 83
+      });
+      
+    
+      idx.add({
+        title: "Ιωάννης Καρύδης",
+        excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+        categories: ["HILab"],
+        tags: ["Συστήματα Υποστήριξης Αποφάσεων","Επεξεργασία Ομιλίας και Ήχου"],
+        id: 84
       });
       
     
@@ -1367,7 +1304,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών, Πανεπιστήμιο Πατρών” “Διδακτορικό Δίπλωμα με τίτλο διατριβής «Αυτόματη Μάθηση Συντακτικών Εξαρτήσεων και Ανάπτυξη...",
         categories: [],
         tags: ["Μηχανική Μάθηση","Επεξεργασία Φυσικής Γλώσσας","Μοντελοποίηση Χρήστη","Εφαρμογές Πληροφορικής στις Ανθρωπιστικές και Κοινωνικές Επιστήμες"],
-        id: 92
+        id: 85
+      });
+      
+    
+      idx.add({
+        title: "Πάτρικ Μικάλεφ",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+        categories: [],
+        tags: ["IT Strategy"],
+        id: 86
       });
       
     
@@ -1376,7 +1322,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών” “Διδακτορικό Δίπλωμα με θέμα τη “Σχεδίαση και Μελέτη Απόδοσης Παράλληλης Αρχιτεκτονικής...",
         categories: [],
         tags: ["Κατανεμημένες αρχιτεκτονικές υπολογιστικών συστημάτων υψηλών επιδόσεων -Ενσωματωμένα συστήματα πραγματικού χρόνου","Αρχιτεκτονικές συστημάτων αυξημένης υπολογιστικής παρουσίας  (pervasive computing systems)"],
-        id: 93
+        id: 87
       });
       
     
@@ -1385,7 +1331,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc in Communication and Signal Processing from the...",
         categories: [],
         tags: ["Αυτόνομα Δίκτυα","Ανάλυση Απόδοσης Δικτύων","Πρόσβαση Μέσου"],
-        id: 94
+        id: 88
+      });
+      
+    
+      idx.add({
+        title: "Ηλίας Παππάς",
+        excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+        categories: [],
+        tags: ["E-Commerce"],
+        id: 89
       });
       
     
@@ -1394,7 +1349,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “ΜSc in Electronic Commerce, University of Manchester Institute of Science &amp; Technology” “Διδακτορικό Δίπλωμα...",
         categories: [],
         tags: ["Διοίκηση Πληροφοριακών Συστημάτων","Επιχειρηματικά Μοντέλα","Ψηφιακή Επιχειρηματικότητα","Ανοικτή Καινοτομία","Crowdsourcing"],
-        id: 95
+        id: 90
+      });
+      
+    
+      idx.add({
+        title: "Γεώργιος Παξινός",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Neuroscience"],
+        id: 91
       });
       
     
@@ -1403,7 +1367,16 @@ var idx = lunr(function () {
         excerpt: "Education: “Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό δίπλωμα ειδίκευσης στις Επιστήμες των Αποφάσεων, Οικονομικό Πανεπιστήμιο Αθηνών” “Διδακτορικό δίπλωμα στα Πληροφοριακά...",
         categories: [],
         tags: ["Ηλεκτρονικό Επιχειρείν","Ηλεκτρονική Διακυβέρνηση","Πληροφοριακά Συστήματα"],
-        id: 96
+        id: 92
+      });
+      
+    
+      idx.add({
+        title: "Μαρία Ψύχα",
+        excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+        categories: [],
+        tags: ["Bioinformatics"],
+        id: 93
       });
       
     
@@ -1412,7 +1385,25 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Μηχανικού Η/Υ &amp; Πληροφορικής, Πανεπιστήμιο Πατρών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Τεχνικές εξάλειψης κατανεμημένης πολυπλοκότητας και εφαρμογή τους στη...",
         categories: [],
         tags: ["Δομές Δεδομένων και Αλγόριθμοι","Υπολογιστική Γεωμετρία και Χωρικές Βάσεις Δεδομένων","Χώρο-Χρονικές και Πολυμεσικές Βάσεις Δεδομένων","Κατανεμημένες Δομές Δεδομένων και P2P Συστήματα","Διαχείριση Μεγάλου Όγκου Δεδομένων σε Συστήματα Υπολογιστικού Νέφους (Cloud)","Αποθήκες Δεδομένων και Αλγόριθμοι Εξόρυξης Γνώσης","Χωρικές Δομές Δεδομένων και GIS"],
-        id: 97
+        id: 94
+      });
+      
+    
+      idx.add({
+        title: "Σπύρος Βούλγαρης",
+        excerpt: "education:\n\n  “Πτυχίο, Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχ. Η/Υ, Εθνικό Μετσόβιο Πολυτεχνείο”\n  “Μεταπτυχιακό, Τμήμα Αρχειονομίας και Βιβλιοθηκονομίας, Ιόνιο Παναεπιστήμιο”\n\n\n",
+        categories: [],
+        tags: [],
+        id: 95
+      });
+      
+    
+      idx.add({
+        title: "Σωτηρία-Σοφία Αρωνιάδα",
+        excerpt: "\n",
+        categories: [],
+        tags: [],
+        id: 96
       });
       
     
@@ -1421,7 +1412,7 @@ var idx = lunr(function () {
         excerpt: "Education: “Δίπλωμα Φυσικομαθηματικής Σχολής Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης” “MSc στην Επιχειρησιακή Έρευνα, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
         tags: ["Ασφάλεια","Δίκτυα Η/Υ"],
-        id: 98
+        id: 97
       });
       
     
@@ -1430,6 +1421,15 @@ var idx = lunr(function () {
         excerpt: "Education:\n\n  “Πτυχίο Μαθηματικών, Πανεπιστήμιο Αθηνών”\n  “Διδακτορικό Δίπλωμα στα Μαθηματικά, Τμήμα Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών, Ε.Μ. Πολυτεχνείου.”\n\n",
         categories: [],
         tags: ["Μαθηματικά μοντέλα με εφαρμογές σε προβλήματα τεχνικών αποκατάστασης εικόνας φυσικών επιστημών και χημικής μηχανικής","Μαθηματικά μοντέλα στην εκπαίδευση με χρήση νέων τεχνολογιών"],
+        id: 98
+      });
+      
+    
+      idx.add({
+        title: "Bernd Wegner",
+        excerpt: "education:\n",
+        categories: [],
+        tags: ["Mathematics"],
         id: 99
       });
       
@@ -2385,7 +2385,7 @@ var store = [
         
         {
           "title": "Αλέξανδρος Πανάρετος",
-          "url": "/site-gem/gr/administrative-assistants/alex/",
+          "url": "/site-gem/gr/people/alex/",
           "excerpt": "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n\n",
           "teaser":
             
@@ -2396,7 +2396,7 @@ var store = [
         
         {
           "title": "Αθανάσιος Αλεξίου",
-          "url": "/site-gem/gr/administrative-assistants/alexiou,md/",
+          "url": "/site-gem/gr/people/alexiou,md/",
           "excerpt": "### education:\n - PhD in Bioinformatics, Ionian University \n",
           "teaser":
             
@@ -2406,129 +2406,8 @@ var store = [
       
         
         {
-          "title": "Έλενα Λάσκαρι",
-          "url": "/site-gem/gr/administrative-assistants/elena/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Βαρβάρα Γαρνέλη",
-          "url": "/site-gem/gr/administrative-assistants/garneli/",
-          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Κωνσταντίνος Γιαννάκης",
-          "url": "/site-gem/gr/administrative-assistants/giannakis/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ιωάννης Καρύδης",
-          "url": "/site-gem/gr/administrative-assistants/karydis/",
-          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Πάτρικ Μικάλεφ",
-          "url": "/site-gem/gr/administrative-assistants/mikalef/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Ηλίας Παππάς",
-          "url": "/site-gem/gr/administrative-assistants/pappas/",
-          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Γεώργιος Παξινός",
-          "url": "/site-gem/gr/administrative-assistants/paxinos/",
-          "excerpt": "education:\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Μαρία Ψύχα",
-          "url": "/site-gem/gr/administrative-assistants/psiha/",
-          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Σπύρος Βούλγαρης",
-          "url": "/site-gem/gr/administrative-assistants/svoul/",
-          "excerpt": "education:\n\n  “Πτυχίο, Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχ. Η/Υ, Εθνικό Μετσόβιο Πολυτεχνείο”\n  “Μεταπτυχιακό, Τμήμα Αρχειονομίας και Βιβλιοθηκονομίας, Ιόνιο Παναεπιστήμιο”\n\n\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Σωτηρία-Σοφία Αρωνιάδα",
-          "url": "/site-gem/gr/administrative-assistants/swthria/",
-          "excerpt": "\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
-          "title": "Bernd Wegner",
-          "url": "/site-gem/gr/administrative-assistants/wegner/",
-          "excerpt": "education:\n",
-          "teaser":
-            
-              null
-            
-        },
-      
-        
-        {
           "title": "Θεόδωρος Ανδρόνικος",
-          "url": "/site-gem/gr/faculty/andronikos/",
+          "url": "/site-gem/gr/people/andronikos/",
           "excerpt": "Education: “Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών με κατεύθυνση Πληροφορικής από τη Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Εθνικού...",
           "teaser":
             
@@ -2539,7 +2418,7 @@ var store = [
         
         {
           "title": "Αγγελική Τσώχου",
-          "url": "/site-gem/gr/faculty/atsohou/",
+          "url": "/site-gem/gr/people/atsohou/",
           "excerpt": "Education: “Πτυχίο Πληροφορικής, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Πληροφοριακά Συστήματα», Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Διδακτορικό...",
           "teaser":
             
@@ -2550,7 +2429,7 @@ var store = [
         
         {
           "title": "Μάρκος Αυλωνίτης",
-          "url": "/site-gem/gr/faculty/avlonitis/",
+          "url": "/site-gem/gr/people/avlonitis/",
           "excerpt": "Education:\n\n  “Πτυχίο Φυσικής, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Σχολή Θετικών Επιστημών”\n  “Διδακτορικό Δίπλωμα στη Μηχανική, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Πολυτεχνική Σχολή”\n\n",
           "teaser":
             
@@ -2561,7 +2440,7 @@ var store = [
         
         {
           "title": "Κωνσταντίνος Χωριανόπουλος",
-          "url": "/site-gem/gr/faculty/choko/",
+          "url": "/site-gem/gr/people/choko/",
           "excerpt": "Education: “Δίπλωμα Ηλεκτρονικών Μηχανικών και Μηχανικών Υπολογιστών, Πολυτεχνείο Κρήτης” “Μεταπτυχιακό Μάρκετινγκ και Επικοινωνία με Νέες Τεχνολογίες, Τμήμα Μάρκετινγκ και Επικοινωνίας,...",
           "teaser":
             
@@ -2572,7 +2451,7 @@ var store = [
         
         {
           "title": "Χρήστος Αναγνωστόπουλος",
-          "url": "/site-gem/gr/faculty/christos/",
+          "url": "/site-gem/gr/people/christos/",
           "excerpt": "Education: “Πτυχίο Τμήματος Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης “Προηγμένα Πληροφοριακά Συστήματα”, Τμήμα Πληροφορικής και...",
           "teaser":
             
@@ -2583,7 +2462,7 @@ var store = [
         
         {
           "title": "Δημήτριος Τσουμάκος",
-          "url": "/site-gem/gr/faculty/dtsouma/",
+          "url": "/site-gem/gr/people/dtsouma/",
           "excerpt": "Education: “Πτυχίο Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ, Τμήμα Ηλεκτρολόγων Μηχ. και Μηχ. Υπολογιστών, Εθνικό Μετσόβιο Πολυτεχνείο. Τίτλος Διπλωματικής Εργασίας: ‘Ηλεκτρονικός...",
           "teaser":
             
@@ -2593,8 +2472,19 @@ var store = [
       
         
         {
+          "title": "Έλενα Λάσκαρι",
+          "url": "/site-gem/gr/people/elena/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Εμμανουήλ Μάγκος",
-          "url": "/site-gem/gr/faculty/emagos/",
+          "url": "/site-gem/gr/people/emagos/",
           "excerpt": "Education:\n\n  “Πτυχίο Πληροφορικής, Πανεπιστήμιο Πειραιώς”\n  “Διδακτορικό Δίπλωμα σε “Ασφαλή Ηλεκτρονικά Συστήματα Συναλλαγών μέσω Internet”, Πανεπιστήμιο Πειραιώς”\n\n",
           "teaser":
             
@@ -2605,7 +2495,7 @@ var store = [
         
         {
           "title": "Φοίβος Μυλωνάς",
-          "url": "/site-gem/gr/faculty/fmylonas/",
+          "url": "/site-gem/gr/people/fmylonas/",
           "excerpt": "Education: “Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Ηλεκτρονικών Υπολογιστών, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών, Ε.Μ.Π., 2001” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης...",
           "teaser":
             
@@ -2615,8 +2505,41 @@ var store = [
       
         
         {
+          "title": "Βαρβάρα Γαρνέλη",
+          "url": "/site-gem/gr/people/garneli/",
+          "excerpt": "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Κωνσταντίνος Γιαννάκης",
+          "url": "/site-gem/gr/people/giannakis/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Ιωάννης Καρύδης",
+          "url": "/site-gem/gr/people/karydis/",
+          "excerpt": "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Κάτια Λήδα Κερμανίδου",
-          "url": "/site-gem/gr/faculty/kerman/",
+          "url": "/site-gem/gr/people/kerman/",
           "excerpt": "Education: “Δίπλωμα Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών, Πανεπιστήμιο Πατρών” “Διδακτορικό Δίπλωμα με τίτλο διατριβής «Αυτόματη Μάθηση Συντακτικών Εξαρτήσεων και Ανάπτυξη...",
           "teaser":
             
@@ -2626,8 +2549,19 @@ var store = [
       
         
         {
+          "title": "Πάτρικ Μικάλεφ",
+          "url": "/site-gem/gr/people/mikalef/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Μιχαήλ Στεφανιδάκης",
-          "url": "/site-gem/gr/faculty/mistral/",
+          "url": "/site-gem/gr/people/mistral/",
           "excerpt": "Education: “Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών” “Διδακτορικό Δίπλωμα με θέμα τη “Σχεδίαση και Μελέτη Απόδοσης Παράλληλης Αρχιτεκτονικής...",
           "teaser":
             
@@ -2638,7 +2572,7 @@ var store = [
         
         {
           "title": "Κωνσταντίνος Οικονόμου",
-          "url": "/site-gem/gr/faculty/okon/",
+          "url": "/site-gem/gr/people/okon/",
           "excerpt": "Education: “Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc in Communication and Signal Processing from the...",
           "teaser":
             
@@ -2648,8 +2582,19 @@ var store = [
       
         
         {
+          "title": "Ηλίας Παππάς",
+          "url": "/site-gem/gr/people/pappas/",
+          "excerpt": "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Αδαμαντία Πατέλη",
-          "url": "/site-gem/gr/faculty/pateli/",
+          "url": "/site-gem/gr/people/pateli/",
           "excerpt": "Education: “Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “ΜSc in Electronic Commerce, University of Manchester Institute of Science &amp; Technology” “Διδακτορικό Δίπλωμα...",
           "teaser":
             
@@ -2659,8 +2604,19 @@ var store = [
       
         
         {
+          "title": "Γεώργιος Παξινός",
+          "url": "/site-gem/gr/people/paxinos/",
+          "excerpt": "education:\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Παναγιώτης Κουρουθανάσης",
-          "url": "/site-gem/gr/faculty/pkour/",
+          "url": "/site-gem/gr/people/pkour/",
           "excerpt": "Education: “Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών” “Μεταπτυχιακό δίπλωμα ειδίκευσης στις Επιστήμες των Αποφάσεων, Οικονομικό Πανεπιστήμιο Αθηνών” “Διδακτορικό δίπλωμα στα Πληροφοριακά...",
           "teaser":
             
@@ -2670,8 +2626,19 @@ var store = [
       
         
         {
+          "title": "Μαρία Ψύχα",
+          "url": "/site-gem/gr/people/psiha/",
+          "excerpt": "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Σπύρος Σιούτας",
-          "url": "/site-gem/gr/faculty/sioutas/",
+          "url": "/site-gem/gr/people/sioutas/",
           "excerpt": "Education: “Δίπλωμα Μηχανικού Η/Υ &amp; Πληροφορικής, Πανεπιστήμιο Πατρών” “Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Τεχνικές εξάλειψης κατανεμημένης πολυπλοκότητας και εφαρμογή τους στη...",
           "teaser":
             
@@ -2681,8 +2648,30 @@ var store = [
       
         
         {
+          "title": "Σπύρος Βούλγαρης",
+          "url": "/site-gem/gr/people/svoul/",
+          "excerpt": "education:\n\n  “Πτυχίο, Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχ. Η/Υ, Εθνικό Μετσόβιο Πολυτεχνείο”\n  “Μεταπτυχιακό, Τμήμα Αρχειονομίας και Βιβλιοθηκονομίας, Ιόνιο Παναεπιστήμιο”\n\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Σωτηρία-Σοφία Αρωνιάδα",
+          "url": "/site-gem/gr/people/swthria/",
+          "excerpt": "\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
           "title": "Βασίλειος Χρυσικόπουλος",
-          "url": "/site-gem/gr/faculty/vchris/",
+          "url": "/site-gem/gr/people/vchris/",
           "excerpt": "Education: “Δίπλωμα Φυσικομαθηματικής Σχολής Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης” “MSc στην Επιχειρησιακή Έρευνα, Chelsea College, London University” “PhD Royal Holloway, London University”...",
           "teaser":
             
@@ -2693,8 +2682,19 @@ var store = [
         
         {
           "title": "Παναγιώτης Βλάμος ",
-          "url": "/site-gem/gr/faculty/vlamos/",
+          "url": "/site-gem/gr/people/vlamos/",
           "excerpt": "Education:\n\n  “Πτυχίο Μαθηματικών, Πανεπιστήμιο Αθηνών”\n  “Διδακτορικό Δίπλωμα στα Μαθηματικά, Τμήμα Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών, Ε.Μ. Πολυτεχνείου.”\n\n",
+          "teaser":
+            
+              null
+            
+        },
+      
+        
+        {
+          "title": "Bernd Wegner",
+          "url": "/site-gem/gr/people/wegner/",
+          "excerpt": "education:\n",
           "teaser":
             
               null
