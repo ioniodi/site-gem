@@ -675,7 +675,7 @@ var idx = lunr(function () {
         title: "Alexandros Panaretos ",
         excerpt: "education:\n\n  “BEng Software Engineering, Univerisity of Wales, Aberystwyth”\n  “MSc E-Commerce Technology, Essex University”\n\n",
         categories: [],
-        tags: ["Internet programming","Databases","Content Management Systems","Social and Cooperative Networks"],
+        tags: [],
         id: 70
       });
       
@@ -684,7 +684,7 @@ var idx = lunr(function () {
         title: "Athanasios Alexiou",
         excerpt: "education:\n\n  PhD in Bioinformatics, Ionian University\n\n",
         categories: [],
-        tags: ["Bioinformatics"],
+        tags: [],
         id: 71
       });
       
@@ -693,7 +693,7 @@ var idx = lunr(function () {
         title: "Theodore Andronikos",
         excerpt: "Education: “Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens” “Ph.D. in “Automatic Parallelization...",
         categories: [],
-        tags: ["Internet Programming","Dynamic algorithms for parallel and distributed systems","Query languages for the web (XML, XPath)","Temporal logics for automated synthesis and verification of reactive systems"],
+        tags: [],
         id: 72
       });
       
@@ -702,7 +702,7 @@ var idx = lunr(function () {
         title: "Aggeliki Tsohou",
         excerpt: "Education: “B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece” “M.Sc. in Information Systems, Department of...",
         categories: [],
-        tags: ["Information Security Policies, Risk Perceptions and User Awareness","Information Security Risk Assessment and Management","Security Policies for Acceptable Internet Use","Privacy Enhancing Tools","Privacy Protection in Mobile Applications","Information Security and Privacy Standards","Theory Development and Research Methods in Information Systems","e-Services, e-Government and Information Systems"],
+        tags: [],
         id: 73
       });
       
@@ -711,7 +711,7 @@ var idx = lunr(function () {
         title: "Markos Avlonitis",
         excerpt: "Education: “Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)” “M.Sc. in Physics of Materials,...",
         categories: [],
-        tags: ["Applied stochastic processes","Self-organized systems","Modeling the spread of computer malware","Modeling and simulation of large scale networks"],
+        tags: [],
         id: 74
       });
       
@@ -720,7 +720,7 @@ var idx = lunr(function () {
         title: "Konstantinos Chorianopoulos",
         excerpt: "Education: “Diploma in Electronic and Computer Engineering, Technical University of Crete” “MSc. Marketing and Communication, Athens University of Economics and...",
         categories: [],
-        tags: ["Computer-Supported Collaborative Work"],
+        tags: [],
         id: 75
       });
       
@@ -729,7 +729,7 @@ var idx = lunr(function () {
         title: "Christos Anagnostopoulos",
         excerpt: "Education: “B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications” “M.Sc., Informatics and...",
         categories: [],
-        tags: ["Mobile and Distributed Computing","Context-aware and Pervasive Computing","Wireless Sensor Networks","Network-centric Information Systems"],
+        tags: [],
         id: 76
       });
       
@@ -738,7 +738,7 @@ var idx = lunr(function () {
         title: "Dimitrios Tsoumakos",
         excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title...",
         categories: [],
-        tags: ["Distributed Data Management","Data management in Cloud Computing","Internet Databases and DataWarehouses"],
+        tags: [],
         id: 77
       });
       
@@ -756,7 +756,7 @@ var idx = lunr(function () {
         title: "Emmanouil Magos",
         excerpt: "Education: “Diploma in Computer Science, University of Piraeus” “Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department,...",
         categories: [],
-        tags: ["Cryptographic techniques for computer and network security","Security and Privacy in Internet applications"],
+        tags: [],
         id: 79
       });
       
@@ -765,7 +765,7 @@ var idx = lunr(function () {
         title: "Phivos Mylonas",
         excerpt: "Education: “Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001” “Ph.D. in Engineering, School of...",
         categories: [],
-        tags: ["Knowledge-assisted multimedia analysis","Multimedia information retrieval","Multimedia personalization","User adaptation","User modeling","User profiling","Visual context representation and analysis","Human-computer interaction"],
+        tags: [],
         id: 80
       });
       
@@ -774,7 +774,7 @@ var idx = lunr(function () {
         title: "Varvara Garneli",
         excerpt: "education: BSc in Informatics, Athens University of Economics and Business MSc in Informatics and Humanistic Studies, Ionian University PhD in...",
         categories: [],
-        tags: ["Computing Education"],
+        tags: [],
         id: 81
       });
       
@@ -783,7 +783,7 @@ var idx = lunr(function () {
         title: "Konstantinos Giannakis",
         excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in the...",
         categories: [],
-        tags: ["Theoretical Computer Science"],
+        tags: [],
         id: 82
       });
       
@@ -792,7 +792,7 @@ var idx = lunr(function () {
         title: "Ioannis Karydis",
         excerpt: "education: “Phd , Auth, thesis: Mining and retrieval methods for acoustic and symbolic musical data.” “MSc Advanced Methods in Computer...",
         categories: ["HILab"],
-        tags: ["Decision Support Systems","Speech and Audio Processing"],
+        tags: [],
         id: 83
       });
       
@@ -801,7 +801,7 @@ var idx = lunr(function () {
         title: "Katia Lida Kermanidis",
         excerpt: "Education: “Diploma from the Electrical and Computer Engineering Department, University of Patras” “PhD in Automatic Learning of Syntactic Dependencies And...",
         categories: [],
-        tags: ["Machine Learning","Natural Language Processing","User Modeling","Humanistic Informatics"],
+        tags: [],
         id: 84
       });
       
@@ -810,7 +810,7 @@ var idx = lunr(function () {
         title: "Patrick Mikalef",
         excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science in Business Informatics(MSc),Utrecht University PhD in IT Strategy,Ionian...",
         categories: [],
-        tags: ["IT Strategy"],
+        tags: [],
         id: 85
       });
       
@@ -819,7 +819,7 @@ var idx = lunr(function () {
         title: "Michalis Stefanidakis",
         excerpt: "Education: “Diploma of Computer Engineering and Informatics, University of Patras” “Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel...",
         categories: [],
-        tags: ["High-Performance Distributed Computer Systems","Real-time Embedded System Architectures","Pervasive Computing Systems"],
+        tags: [],
         id: 86
       });
       
@@ -828,7 +828,7 @@ var idx = lunr(function () {
         title: "Konstantinos Oikonomou",
         excerpt: "Education: “Diploma in Computer Engineering and Informatics, University of Patras, Greece” “MSc in Communication and Signal Processing from the Electrical...",
         categories: [],
-        tags: ["Autonomic Networks","Network Performance Analysis","Medium Access Control"],
+        tags: [],
         id: 87
       });
       
@@ -837,7 +837,7 @@ var idx = lunr(function () {
         title: "Ilias Pappas",
         excerpt: "education:\n\n  PhD in E-Commerce,Ionian University, Dept. of Informatics\n\n",
         categories: [],
-        tags: ["E-Commerce"],
+        tags: [],
         id: 88
       });
       
@@ -846,7 +846,7 @@ var idx = lunr(function () {
         title: "Adamantia Pateli",
         excerpt: "Education: “Diploma in Informatics, Athens University of Economics and Business” “ΜSc in Electronic Commerce, University of Manchester Institute of Science...",
         categories: [],
-        tags: ["Information Systems","E-Business & E-Governement","Mobile & Wireless Services","Strategic Management of ICT"],
+        tags: [],
         id: 89
       });
       
@@ -855,7 +855,7 @@ var idx = lunr(function () {
         title: "George Paxinos",
         excerpt: "education:\n",
         categories: [],
-        tags: ["Neuroscience"],
+        tags: [],
         id: 90
       });
       
@@ -864,7 +864,7 @@ var idx = lunr(function () {
         title: "Panagiotis Kourouthanassis",
         excerpt: "Education: “BSc in Informatics, Athens University of Economics and Business” “MSc in Decision Sciences, Athens University of Economics and Business”...",
         categories: [],
-        tags: ["Electronic Business","Electronic Government","Information Systems Management"],
+        tags: [],
         id: 91
       });
       
@@ -873,7 +873,7 @@ var idx = lunr(function () {
         title: "Maria Psiha",
         excerpt: "education: Bachelor of Science (BSc),Ionian University, Dept. of Informatics Master of Science (MSc),Ionian University, Dept. of Informatics PhD in Bioinformatics,Ionian...",
         categories: [],
-        tags: ["Bioinformatics"],
+        tags: [],
         id: 92
       });
       
@@ -882,7 +882,7 @@ var idx = lunr(function () {
         title: "Spyros Sioutas",
         excerpt: "Education: “Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city...",
         categories: [],
-        tags: ["Efficient I/O Algorithms & Data Structures","Computational Geometry and Computer Graphics","Spatio-Temporal and Multimedia Databases","Distributed Data Structures and Peer-to-Peer Computing","Parallel and Distributed Data Structures and Cloud Computing","Knowledge Data Discovery (KDD)","Data Mining Algorithms","Spatial Data Structures and Geographical Information Systems"],
+        tags: [],
         id: 93
       });
       
@@ -909,7 +909,7 @@ var idx = lunr(function () {
         title: "Vassilis Chrissikopoulos",
         excerpt: "Education: “Diploma in Mathematics, Aristotle University of Thessaloniki” “MSc Industrial Research, Chelsea College, London University” “PhD Royal Holloway, London University”...",
         categories: [],
-        tags: ["Security","Computer Networks"],
+        tags: [],
         id: 96
       });
       
@@ -918,7 +918,7 @@ var idx = lunr(function () {
         title: "Panagiotis Vlamos",
         excerpt: "Education:\n\n  “Diploma in Mathematics, University of Athens”\n  “Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens”\n\n",
         categories: [],
-        tags: ["Mathematical modeling applied for image restoration purposes","Mathematical modeling applied to physical and Chemical Engineering problems","Mathematical modeling in Education with the use of new technologies"],
+        tags: [],
         id: 97
       });
       
@@ -927,7 +927,7 @@ var idx = lunr(function () {
         title: "Bernd Wegner",
         excerpt: "education:\n",
         categories: [],
-        tags: ["Mathematics"],
+        tags: [],
         id: 98
       });
       
