@@ -7,7 +7,9 @@ choko-en:
  avatar: "/assets/images/choko.jpg"
  tel: "+30 26610 87707"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
+ home: "/en/people/choko"
 
+ 
 choko:
  name: "Κωνσταντίνος Χωριανόπουλος"
  email: "choko@ionio.gr"
@@ -17,7 +19,9 @@ choko:
  avatar: "/assets/images/choko.jpg"
  tel: "+30 26610 87707"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
-
+ home: "/gr/people/choko"
+ resume: "Είναι κάτοχος διπλώματος του τμήματος Ηλεκτρονικών Μηχανικών και Μηχανικών Η/Υ του Πολυτεχνείου Κρήτης, καθώς και μεταπτυχιακού διπλώματος ειδίκευσης στο Μάρκετινγκ και στην Επικοινωνία, και διδακτορικού διπλώματος του τμήματος Διοικητικής Επιστήμης και Τεχνολογίας του Οικονομικού Πανεπιστημίου Αθηνών."
+ 
 pkour:
  name: "Παναγιώτης Κουρουθανάσης"
  email: "pkour@ionio.gr"
@@ -26,6 +30,8 @@ pkour:
  avatar: "/assets/images/kourou.jpg"
  tel: "+30 26610 87701"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
+ home: "/gr/people/pkour"
+ resume: "Είναι κάτοχος πτυχίου πληροφορικής από το Οικονομικό πανεπιστήμιο Αθηνών. Έχει κάνει μεταπτυχιακή ειδίκευση στις Επιστήμες των Αποφάσεων, στο Οικονομικό Πανεπιστήμιο Αθηνών. Σε διδακτορικό επίπεδο, ασχολήθηκε με τα Πληροφοριακά Συστήματα και την Διοικητική επιστήμη και Τεχνολογία, στο Οικονομικό Πανεπιστήμιο Αθηνών ."
 
 pkour-en:
  name: "Panagiotis Kourouthanassis"
@@ -35,7 +41,9 @@ pkour-en:
  avatar: "/assets/images/kourou.jpg"
  tel: "+30 26610 87701"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
-
+ home: "/en/people/pkour"
+ 
+ 
 emagos:
  name: "Εμμανουήλ Μάγκος"
  email: "emagos@ionio.gr"
@@ -44,7 +52,9 @@ emagos:
  avatar: "/assets/images/emagos.jpg"
  tel: "+30 26610 87704"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
-
+ home: "/gr/people/emagos"
+ resume: "Είναι κάτοχος πτυχίου του Τμήματος Πληροφορικής του Πανεπιστημίου Πειραιά και διδακτορικού διπλώματος του ιδίου τμήματος ."
+ 
 emagos-en:
  name: "Emmanouil Magos"
  email: "emagos@ionio.gr"
@@ -53,6 +63,7 @@ emagos-en:
  avatar: "/assets/images/emagos.jpg"
  tel: "+30 26610 87704"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
+ home: "/en/people/emagos"
 
 andronikos:
  name: "Θεόδωρος Ανδρόνικος"
@@ -62,6 +73,8 @@ andronikos:
  avatar: "/assets/images/andro.jpg"
  tel: "+30 26610 87712"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/andronikos_cv_gr_2015.pdf"
+ home: "/gr/people/andronikos"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Ε.Μ. Πολυτεχνείου και διδακτορικού διπλώματος από το Ε.Μ. Πολυτεχνείο."
 
 andronikos-en:
  name: "Theodore Andronikos"
@@ -71,6 +84,7 @@ andronikos-en:
  avatar: "/assets/images/andro.jpg"
  tel: "+30 26610 87712"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/andronikos_cv_gr_2015.pdf"
+ home: "/en/people/andronikos"
 
 okon:
  name: "Κωνσταντίνος Οικονόμου"
@@ -80,6 +94,8 @@ okon:
  avatar: "/assets/images/okon.jpg"
  tel: "+30 26610 87708"
  cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
+ home: "/gr/people/okon"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Μηχανικών Η/Υ και Πληροφορικής του Πανεπιστημίου Πατρών, μεταπτυχιακού διπλώματος του Imperial College και διδακτορικού διπλώματος του Τμήματος Πληροφορικής και Τηλεπικοινωνιών του Πανεπιστημίου Αθηνών."
 
 okon-en:
  name: "Konstantinos Oikonomou"
@@ -89,7 +105,8 @@ okon-en:
  avatar: "assets/images/okon.jpg"
  tel: "+30 26610 87708"
  cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
-
+ home: "/en/people/okon"
+ 
 avlon:
  name: "Mάρκος Αυλωνίτης"
  email: "avlon@ionio.gr"
@@ -98,6 +115,8 @@ avlon:
  avatar: "assets/images/avlon.jpg"
  tel: "+30 26610 87702"
  uri:  "http://www.ionio.gr/~avlon"
+ home: "/gr/people/avlon"
+ resume: "Είναι κάτοχος πτυχίου και μεταπτυχιακού διπλώματος του Φυσικού Τμήματος του Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης και διδακτορικού διπλώματος του Γενικού Τμήματος της Πολυτεχνικής Σχολής του Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης. Τα ερευνητικά του ενδιαφέροντα αφορούν σε εφαρμοσμένες στοχαστικές διεργασίες, μη-γραμμικά μη-τοπικά προβλήματα και συστήματα αυτοοργάνωσης."
 
 avlon-en:
  name: "Markos Avlonitis"
@@ -107,6 +126,7 @@ avlon-en:
  avatar: "assets/images/avlon.jpg"
  tel: "+30 26610 87702"
  uri:  "http://www.ionio.gr/~avlon"
+ home: "/en/people/avlon"
 
 mistral:
  name: "Μιχαήλ Στεφανιδάκης"
@@ -116,6 +136,8 @@ mistral:
  avatar: "assets/images/mistral.jpg"
  tel: "+30 26610 87709"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
+ home: "/gr/people/mistral"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής του Πανεπιστημίου Πατρών και διδακτορικού διπλώματος του ιδίου τμήματος."
 
 mistral-en:
  name: "Michalis Stefanidakis"
@@ -125,6 +147,7 @@ mistral-en:
  avatar: "assets/images/mistral.jpg"
  tel: "+30 26610 87709"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
+ home: "/en/people/mistral"
 
 christos:
  name: "Χρήστος Αναγνωστόπουλος"
@@ -134,6 +157,8 @@ christos:
  avatar: "/assets/images/anagnostopoulos.jpg"
  tel: "+30 26610 87756"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
+ home: "gr/people/christos"
+ resume: "Είναι κάτοχος πτυχίου πληροφορικής και τηλεπικοινωνιών από το Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών. Έχει κάνει μεταπτυχιακή ειδίκευση στα “Προηγμένα Πληροφοριακά Συστήματα”, στο Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών. Σε διδακτορικό επίπεδο, ασχολήθηκε με την Μοντελοποίηση και Αρχιτεκτονική Συστημάτων Κινητού Υπολογισμού, στο Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 
 christos-en:
  name: "Christos Anagnostopoulos"
@@ -143,6 +168,7 @@ christos-en:
  avatar: "/assets/images/anagnostopoulos.jpg"
  tel: "+30 26610 87756"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
+ home: "en/people/christos"
 
 vlamos:
  name: "Παναγιώτης Βλάμος"
@@ -152,6 +178,8 @@ vlamos:
  avatar: "/assets/images/vlamos.jpg"
  tel: "+30 26610 87710"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/03/Vlamos-Panayiotis-CV-2016.pdf"
+ home: "gr/people/vlamos"
+ resume: "Είναι κάτοχος πτυχίου του Μαθηματικού Τμήματος του Πανεπιστημίου Αθηνών και διδακτορικού διπλώματος της Σχολής Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών του Ε.Μ. Πολυτεχνείου."
 
 vlamos-en:
  name: "Panagiotis Vlamos"
@@ -161,6 +189,7 @@ vlamos-en:
  avatar: "/assets/images/vlamos.jpg"
  tel: "+30 26610 87710"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/03/Vlamos-Panayiotis-CV-2016.pdf"
+  home: "en/people/vlamos"
 
 pateli:
  name: "Αδαμαντία Πατέλη"
@@ -170,7 +199,9 @@ pateli:
  avatar: "/assets/images/pateli.jpg"
  tel: "+30 26610 87714"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
-
+ home: "gr/people/pateli"
+ resume: "Είναι κάτοχος πτυχίου του Τμήματος Πληροφορικής του Οικονομικού Πανεπιστημίου Αθηνών, μεταπτυχιακού διπλώματος του University of Manchester Institute of Scienceand Technology (UMIST) και διδακτορικού διπλώματος του Τμήματος Διοικητικής Επιστήμης και Τεχνολογίας (ΔΕΤ) του Οικονομικού Πανεπιστημίου Αθηνών."
+ 
 pateli-en:
  name: "Adamantia Pateli"
  email: "pateli@ionio.gr"
@@ -179,7 +210,8 @@ pateli-en:
  avatar: "/assets/images/pateli.jpg"
  tel: "+30 26610 87714"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
-
+ home: "en/people/pateli"
+ 
 dtsouma:
  name: "Δημήτριος Τσουμάκος"
  email: "dtsouma@ionio.gr"
@@ -188,6 +220,8 @@ dtsouma:
  avatar: "/assets/images/dtsouma.jpg"
  tel: "+30 26610 87756"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
+ home: "gr/people/dtsouma"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Ηλεκτρολόγων Μηχανικών & Μηχανικών Η/Υ του Εθνικού Μετσόβιου Πολυτεχνείου, μεταπτυχιακού και διδακτορικού διπλώματος του Τμήματος Επιστήμης Υπολογιστών του University of Maryland στο College Park των Η.Π.Α."
 
 dtsouma-en:
  name: "Dimitrios Tsoumakos"
@@ -197,6 +231,7 @@ dtsouma-en:
  avatar: "/assets/images/dtsouma.jpg"
  tel: "+30 26610 87756"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
+ home: "en/people/dtsouma"
 
 fmylonas:
  name: "Φοίβος Μυλωνάς"
@@ -207,6 +242,8 @@ fmylonas:
  tel: "+30 26610 87756"
  email: "fmylonas@ionio.gr"
  uri:  "	http://image.ntua.gr/~fmylonas"
+ home: "gr/people/fmylonas"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Ηλεκτρολόγων Μηχανικών & Μηχανικών Η/Υ του Εθνικού Μετσόβιου Πολυτεχνείου, μεταπτυχιακού διπλώματος του Τμήματος Πληροφορικής και Τηλεπικοινωνιών του Πανεπιστημίου Αθηνών και διδακτορικού διπλώματος του Τμήματος Ηλεκτρολόγων Μηχανικών & Μηχανικών Η/Υ του Εθνικού Μετσόβιου Πολυτεχνείου."
 
 fmylonas-en:
  name: "Phivos Mylonas"
@@ -217,7 +254,8 @@ fmylonas-en:
  tel: "+30 26610 87756"
  email: "fmylonas@ionio.gr"
  uri:  "	http://image.ntua.gr/~fmylonas"
-
+ home: "en/people/fmylonas"
+ 
 atsohou:
  name: "Αγγελική Τσώχου"
  email: "atsohou@ionio.gr"
@@ -226,6 +264,8 @@ atsohou:
  avatar: "/assets/images/atsohou.jpg"
  tel: "+30 26610 87738"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
+ home: "gr/people/atsohou"
+ resume: "Είναι κάτοχος πτυχίου Πληροφορικής και Μεταπτυχιακού Διπλώματος Ειδίκευσης σε Πληροφοριακά Συστήματα από το Τμήμα Πληροφορικής του Οικονομικού Πανεπιστημίου Αθηνών. Είναι κάτοχος διδακτορικού διπλώματος από το Τμήμα Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων του Πανεπιστημίου Αιγαίου."
 
 atsohou-en:
  name: "Aggeliki Tsohou"
@@ -235,6 +275,7 @@ atsohou-en:
  avatar: "/assets/images/atsohou.jpg"
  tel: "+30 26610 87738"
  cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
+ home: "en/people/atsohou"
 
 kerman:
  name: "Κάτια Λήδα Κερμανίδου"
@@ -244,6 +285,8 @@ kerman:
  avatar: "/assets/images/kerman.jpg"
  tel: "+30 26610 87703"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
+ home: "gr/people/kerman"
+ resume: "Είναι κάτοχος διπλώματος του Τμήματος Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών του Πανεπιστημίου Πατρών και διδακτορικού διπλώματος του ιδίου τμήματος."
 
 kerman-en:
  name: "Katia Lida Kermanidis"
@@ -253,6 +296,7 @@ kerman-en:
  avatar: "/assets/images/kerman.jpg"
  tel: "+30 26610 87703"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
+ home: "en/people/kerman"
 
 sioutas:
  name: "Σπύρος Σιούτας"
@@ -262,6 +306,8 @@ sioutas:
  avatar: "/assets/images/sioutas.jpg"
  tel: "+30 26610 87706"
  cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
+ home: "gr/people/sioutas"
+ resume: "Είναι κάτοχος διπλώματος, Master και διδακτορικού του Τμήματος ΜηχανικώνΗ/Υ και Πληροφορικής της Πολυτεχνικής Σχολής του Πανεπιστημίου Πατρών.Τα ερευνητικά του ενδιαφέροντα αφορούν σε βάσεις δεδομένων, αλγόριθμουςκαι δομές δεδομένων, υπολογιστική γεωμετρία και γραφικά υπολογιστών,ανάκτηση πληροφορίας σε ομότιμα δίκτυα Η/Υ, διαχείριση πληροφορίας καιπροηγμένα πληροφοριακά συστήματα."
 
 sioutas-en:
  name:  "Spyros Sioutas"
@@ -271,6 +317,7 @@ sioutas-en:
  avatar: "/assets/images/sioutas.jpg"
  tel: "+30 26610 87706"
  cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
+ home: "en/people/sioutas"
 
 vchris:
  name: "Βασίλειος Χρυσικόπουλος"
@@ -280,7 +327,9 @@ vchris:
  avatar: "/assets/images/vchris.jpg"
  tel: "+30 26610 87110"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
-
+ home: "gr/people/vchris"
+ resume: "Είναι κάτοχος πτυχίου του Μαθηματικού Τμήματος του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, μεταπτυχιακού διπλώματος του Πανεπιστημίου Warwick,μεταπτυχιακού διπλώματος του Chelsea College του Πανεπιστημίου του Λονδίνου και διδακτορικού διπλώματος του Royal Holloway College του Πανεπιστημίου του Λονδίνου."
+ 
 vchris-en:
  name: "Vassilis Chrissikopoulos"
  email: "vchris@ionio.gr"
@@ -289,6 +338,8 @@ vchris-en:
  avatar: "/assets/images/vchris.jpg"
  tel: "+30 26610 87110"
  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
+ home: "en/people/vchris"
+ 
  
 alex:
  name: "Αλέξανδρος Πανάρετος"
@@ -297,6 +348,8 @@ alex:
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  tel: "+30 26610 87754"
+ home: "gr/people/alex"
+ resume: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ"
 
  alex-en:
  name: "Alexandros Panaretos"
@@ -305,6 +358,7 @@ alex:
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  tel: "+30 26610 87754"
+ home: "en/people/alex"
 
 svoul:
  name: "Σπύρος Βούλγαρης"
@@ -313,6 +367,8 @@ svoul:
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  tel: "+30 26610 87753"
+ home: "gr/people/svoul"
+ resume: "Ειδικό Τεχνικό Εργαστηριακό Προσωπικό (Ε.Τ.Ε.Π.) ΠΕ"
 
 svoul-en:
  name: "Spiros Voulagris"
@@ -321,6 +377,7 @@ svoul-en:
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  tel: "+30 26610 87753"
+ home: "en/people/svoul"
 
 karydis:
  name: "Ιωάννης Καρύδης"
@@ -328,13 +385,15 @@ karydis:
  uri: "https://users.ionio.gr/~karydis/index.el.html"
  bio: "Προσωρινός Διδάσκων (Π.Δ.) 407/80"
  avatar: "/assets/images/karydis.jpg"
-
+ home: "gr/people/karydis"
+ 
 karydis-en:
  name: "Ioannis Karydis"
  email: "karydis@ionio.gr"
  uri: "https://users.ionio.gr/~karydis/index.html"
  bio: "Temporary Lecturer Department of Informatics 407/80"
  avatar: "/assets/images/karydis.jpg"
+ home: "en/people/karydis"
 
 paxinos:
  name: "Γεώργιος Παξινός"
@@ -342,6 +401,7 @@ paxinos:
  uri: ""
  bio: "Επίτιμος Διδάκτορας"
  avatar: "/assets/images/paxinos.jpg"
+ home: "gr/people/paxinos"
 
 paxinos-en:
  name: "George Paxinos"
@@ -349,6 +409,7 @@ paxinos-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/paxinos.jpg"
+ home: "en/people/paxinos"
 
 wegner:
  name: "Bernd Wegner"
@@ -356,6 +417,7 @@ wegner:
  uri: ""
  bio: "Επίτιμος Διδάκτορας"
  avatar: "/assets/images/wegner.jpg"
+ home: "gr/people/wegner"
 
 wegner-en:
  name: "Bernd Wegner"
@@ -363,3 +425,4 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+ home: "en/people/wegner"
