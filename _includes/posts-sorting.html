@@ -1,0 +1,5 @@
+{% if page.lang == 'gr' %}
+{% assign sorted_posts = posts | sort:"date" %}
+{% else %}
+{% assign sorted_posts = posts-en | sort:"date" %}
+{% endif %}
