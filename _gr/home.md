@@ -11,22 +11,19 @@ header:
 excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/site-gem/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/site-gem/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Ανακοινώσεις"
-    excerpt: "Ενημερωθείτε για τα τελευταία νέα του τμήματος Πληροφορικής."
-    url: "/gr/posts/"
+    title: "{{ site.posts.first.title }}"
+    excerpt: "{{ site.posts.first.excerpt }}"
+    url: "{{ site.posts.first.url }}"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Ερευνητικά Προγράμματα"
-    excerpt: "Δείτε όλα τα ερευνητικά προγράμματα του τμήματος Πληροφορικής."
-    url: "/gr/projects/"
+    title: "{{ site.posts.second.title }}"
+    excerpt: "{{ site.posts.first.excerpt }}"
+    url: "{{ site.posts.first.url }}"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "Εργαστήρια"
-    excerpt: "Τα εργαστήρια του τμήματος παρέχουν έρευνα και διδασκαλία στην περιοχή της Πληροφορικής"
-    url: "/gr/groups/"
+    title: "{{ site.posts.third.title }}"
+    excerpt: "{{ site.posts.third.excerpt }}"
+    url: "{{ site.posts.third.url }}"
     btn_label: "Learn More"
 github:
   - excerpt: ''
