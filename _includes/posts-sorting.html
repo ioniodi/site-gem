@@ -5,14 +5,17 @@
 {% endif %}
 
   <div class="medium-4 columns">
-  <a href="{{ site.sorted_posts.first.url }}" > {{ site.sorted_posts.first.title }} </a>
-  {{ site.sorted_posts.first.excerpt }}
+    {{ site.sorted_posts.first.title }}
+    {{ site.sorted_posts.first.excerpt }}
+    <a href="{{ site.sorted_posts.first.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
   </div>
   <div class="medium-4 columns">
-  <a href="{{ site.sorted_posts.second.url }}" > {{ site.sorted_posts.second.title }} </a>
-  {{ site.sorted_posts.second.excerpt }}
+    {{ site.sorted_posts.second.title }}
+    {{ site.sorted_posts.second.excerpt }}
+    <a href="{{ site.sorted_posts.second.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
   </div>
   <div class="medium-4 columns">
-  <a href="{{ site.sorted_posts.third.url }}" > {{ site.sorted_posts.third.title }} </a>
-  {{ site.sorted_posts.third.excerpt }}
+    {{ site.sorted_posts.third.title }}
+    {{ site.sorted_posts.third.excerpt }}
+    <a href="{{ site.sorted_posts.third.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
   </div>
