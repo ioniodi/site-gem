@@ -31,8 +31,19 @@ intro:
   - excerpt: ''
 ---
 
-{% include feature_row id="intro" type="center" %}
+  <div class="medium-4 columns">
+  <a href="{{ site.sorted_posts.first.url }}" > {{ site.sorted_posts.first.title }} </a>
+  {{ site.sorted_posts.first.excerpt }}
+  </div>
+  <div class="medium-4 columns">
+  <a href="{{ site.sorted_posts.second.url }}" > {{ site.sorted_posts.second.title }} </a>
+  {{ site.sorted_posts.second.excerpt }}
+  </div>
+  <div class="medium-4 columns">
+  <a href="{{ site.sorted_posts.third.url }}" > {{ site.sorted_posts.third.title }} </a>
+  {{ site.sorted_posts.third.excerpt }}
+  </div>
 
-{% include feature_row %}
+{% include feature_row id="intro" type="center" %}
 
 {% include posts-sorting.html %}
