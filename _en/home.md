@@ -8,7 +8,9 @@ header:
   cta_label: "<i class='fa fa-download'></i> News"
   cta_url: "/en/posts/"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.2.1">Latest release v4.2.1</a></small><br /><br />'
+excerpt: 'The activity of the Department of Informatics is oriented towards innovative applications in the following directions:<br /> <small><a href="/site-gem/en/humanistic/">
+Humanities and Social Sciences</a></small><br /> <small><a href="/site-gem/en/systems/">
+Information systems</a></small><br /><br />'
 github:
   - excerpt: ''
 intro:
