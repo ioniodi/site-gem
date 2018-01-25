@@ -8,32 +8,15 @@ header:
   cta_label: "<i class='fa fa-download'></i> Οδηγός Σπουδών 2016-2017"
   cta_url: "http://di.ionio.gr/wp-content/uploads/2016/09/OS_2016-2017-final.pdf"
   caption:
-excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/site-gem/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/site-gem/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    title: "{{ site.posts.first.title }}"
-    excerpt: "{{ site.posts.first.excerpt }}"
-    url: "{{ site.posts.first.url }}"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    title: "{{ site.posts.second.title }}"
-    excerpt: "{{ site.posts.first.excerpt }}"
-    url: "{{ site.posts.first.url }}"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    title: "{{ site.posts.third.title }}"
-    excerpt: "{{ site.posts.third.excerpt }}"
-    url: "{{ site.posts.third.url }}"
-    btn_label: "Learn More"
+excerpt: 'The activity of the Department of Informatics is oriented towards innovative applications in the following directions::<br /> <small><a href="/site-gem/en/humanistic/">
+Humanities and Social Sciences</a></small><br /> <small><a href="/site-gem/gr/systems/">
+Information systems</a></small><br /><br />'
 github:
   - excerpt: ''
 intro:
   - excerpt: ''
 ---
 
-
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 {% include posts-sorting.html %}
