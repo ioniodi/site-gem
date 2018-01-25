@@ -9,7 +9,7 @@ header:
   cta_url: "http://di.ionio.gr/wp-content/uploads/2016/09/OS_2016-2017-final.pdf"
   caption:
 excerpt: 'The activity of the Department of Informatics is oriented towards innovative applications in the following directions::<br /> <small><a href="/site-gem/en/humanistic/">
-Humanities and Social Sciences</a></small><br /> <small><a href="/site-gem/gr/systems/">
+Humanities and Social Sciences</a></small><br /> <small><a href="/site-gem/en/systems/">
 Information systems</a></small><br /><br />'
 github:
   - excerpt: ''
