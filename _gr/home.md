@@ -17,4 +17,4 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include posts-sorting.html %}
+{% include dynamic_posts.html %}
