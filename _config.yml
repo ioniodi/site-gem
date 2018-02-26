@@ -251,22 +251,22 @@ collections:
     permalink: /:collection/:path/
   msc:
     output: true
-    permalink: /gr/msc/:path/
+    permalink: /:collection/:path/
   msc-en:
     output: true
-    permalink: /en/msc/:path/
+    permalink: /:collection/:path/
   groups:
     output: true
-    permalink: /gr/groups/:path/
+    permalink: /:collection/:path/
   groups-en:
     output: true
-    permalink: /en/groups/:path/
+    permalink: /:collection/:path/
   projects:
     output: true
-    permalink: /gr/projects/:path/
+    permalink: /:collection/:path/
   projects-en:
     output: true
-    permalink: /en/projects/:path/
+    permalink: /:collection/:path/
   gr:
     output: true
     permalink: /gr/:path/
@@ -312,7 +312,7 @@ defaults:
       search: false
   # _people
   - scope:
-      path: ""
+      path: _people
       type: people
     values:
       lang: gr
@@ -325,7 +325,7 @@ defaults:
       related: false
   # _people-en
   - scope:
-      path: ""
+      path: _people-en
       type: people-en
     values:
       lang: en
@@ -338,7 +338,7 @@ defaults:
       related: false
   # _courses
   - scope:
-      path: ""
+      path: _courses
       type: courses
     values:
       lang: gr
@@ -351,7 +351,7 @@ defaults:
       related: false
   # _courses-en
   - scope:
-      path: ""
+      path: _courses-en
       type: courses-en
     values:
       lang: en
@@ -364,7 +364,7 @@ defaults:
       related: false
   # _msc
   - scope:
-      path: ""
+      path: _msc
       type: msc
     values:
       lang: gr
@@ -377,7 +377,7 @@ defaults:
       related: false
   # _msc-en
   - scope:
-      path: ""
+      path: _msc-en
       type: msc-en
     values:
       lang: en
@@ -390,7 +390,7 @@ defaults:
       related: false
   # _groups
   - scope:
-      path: ""
+      path: _groups
       type: groups
     values:
       lang: gr
@@ -403,7 +403,7 @@ defaults:
       related: false
    # _groups-en
   - scope:
-      path: ""
+      path: _groups-en
       type: groups-en
     values:
       lang: en
@@ -416,7 +416,7 @@ defaults:
       related: false
    # _projects
   - scope:
-      path: ""
+      path: _projects
       type: projects
     values:
       lang: gr
@@ -429,7 +429,7 @@ defaults:
       related: false
    # _projects-en
   - scope:
-      path: ""
+      path: _projects-en
       type: projects-en
     values:
       lang: en
@@ -442,7 +442,7 @@ defaults:
       related: false
  # _posts
   - scope:
-      path: ""
+      path: _posts
       type: posts
     values:
       lang: gr
@@ -455,7 +455,7 @@ defaults:
       related: true
  # _posts-en
   - scope:
-      path: ""
+      path: _posts-en
       type: posts-en
     values:
       lang: en
