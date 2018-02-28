@@ -6,6 +6,8 @@ main:
     url: "/gr/courses/"
   - title: "Εργαστήρια"
     url: "/gr/groups/"
+  - title: "Ανακοινώσεις"
+    url: "/gr/posts/"
 
 main-en:
   - title: "People"
@@ -14,6 +16,8 @@ main-en:
     url: "/en/courses/"
   - title: "Laboratories"
     url: "/en/groups/"
+  - title: "News"
+    url: "/en/posts/"
 
 # sidebar gr
 menu:
@@ -69,10 +73,10 @@ menu:
 
 # sidebar en
 menu-en:
- - title: "EVENTS"
-   url: "http://events.di.ionio.gr/"
  - title: "NEWS"
    url: "/en/posts/"
+ - title: "EVENTS"
+   url: "http://events.di.ionio.gr/"
  - title: "STAFF"
    children:
     - title: "Faculty"
