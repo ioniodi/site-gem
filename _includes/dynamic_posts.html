@@ -1,0 +1,37 @@
+<style>
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .column {
+    flex: 1;
+  }
+}
+
+</style>
+
+{% if page.lang == 'gr' %}
+{% assign sorted_posts = site.posts | sort:"date" | reverse %}
+{% else %}
+{% assign sorted_posts = site.posts-en | sort:"date" | reverse %}
+{% endif %}
+
+
+<div class="row">
+{% for post in sorted_posts limit:3 %}
+  <div class="column">
+    <h3>{{ post.title }}</h3>
+    <br />
+    {{ post.excerpt | truncate: 125}}
+    <br />
+    <a href="{{ post.link }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
+  </div>
+{% endfor %}
+</div>

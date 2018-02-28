@@ -1,0 +1,21 @@
+{% if page.lang == 'gr' %}
+{% assign sorted_posts = posts | sort:"date" %}
+{% else %}
+{% assign sorted_posts = posts-en | sort:"date" %}
+{% endif %}
+
+  <div class="medium-4 columns">
+    {{ site.sorted_posts.first.title }}
+    {{ site.sorted_posts.first.excerpt }}
+    <a href="{{ site.sorted_posts.first.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
+  </div>
+  <div class="medium-4 columns">
+    {{ site.sorted_posts.second.title }}
+    {{ site.sorted_posts.second.excerpt }}
+    <a href="{{ site.sorted_posts.second.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
+  </div>
+  <div class="medium-4 columns">
+    {{ site.sorted_posts.third.title }}
+    {{ site.sorted_posts.third.excerpt }}
+    <a href="{{ site.sorted_posts.third.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
+  </div>
