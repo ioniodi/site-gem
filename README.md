@@ -6,29 +6,38 @@
 
 Εγκαταστήστε το θέμα ως Ruby Gem προσθέτοντάς το στο Gemfile σας :
 
+  ```
 gem "minimal-mistakes-jekyll"
+  ```
 
 Λαμβάνετε και ενημερώστε τα πακέτα bundled gems τρέχοντας την ακόλουθη εντολή Bundler:
 
+  ```
 bundle
-
+  ```
+  
 Ορίστε το θέμα στο αρχείο Jekyll _config.yml του έργου σας:
 
+  ```
 theme: minimal-mistakes-jekyll
-
+  ```
 Για να ενημερώσετε την έκδοση τρέξτε την εντολή  bundle update.
 
 ###### 2. Μέθοδος GitHub Pages
 
 Δημιουργήστε / αντικαταστήστε τα περιεχόμενα του Gemfile σας με τα ακόλουθα:
 
+  ```
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-
+  ```
+  
 Λαμβάνετε και ενημερώστε τα πακέτα bundled gems τρέχοντας την ακόλουθη εντολή Bundler:
 
+  ```
 bundle 
+  ```
 
 Προσθέστε το remote_theme: "mmistakes / minimal-errors" στο αρχείο _config.yml. Καταργήστε οποιοδήποτε άλλο θέμα: ή remote_theme:  entry.
 
