@@ -1,7 +1,5 @@
 # [Site-Gem](https://ioniodi.github.io/site-gem/gr/home/)
 
-:sparkles::sparkles::sparkles:
-
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 
 :sparkles::sparkles::sparkles:
