@@ -19,4 +19,4 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include dynamic_posts.html %}
+{% include dynamic-posts.html %}
