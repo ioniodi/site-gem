@@ -1,21 +1,37 @@
-{% if page.lang == 'gr' %}
-{% assign sorted_posts = posts | sort:"date" %}
-{% else %}
-{% assign sorted_posts = posts-en | sort:"date" %}
-{% endif %}
-
-  <div class="medium-4 columns">
-    {{ site.sorted_posts.first.title }}
-    {{ site.sorted_posts.first.excerpt }}
-    <a href="{{ site.sorted_posts.first.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
-  </div>
-  <div class="medium-4 columns">
-    {{ site.sorted_posts.second.title }}
-    {{ site.sorted_posts.second.excerpt }}
-    <a href="{{ site.sorted_posts.second.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
-  </div>
-  <div class="medium-4 columns">
-    {{ site.sorted_posts.third.title }}
-    {{ site.sorted_posts.third.excerpt }}
-    <a href="{{ site.sorted_posts.third.url }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
-  </div>
+<style>
+ .row {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+ }
+ 
+ .column {
+   flex-basis: 100%;
+ }
+ 
+ @media screen and (min-width: 800px) {
+   .column {
+     flex: 1;
+   }
+ }
+ 
+ </style>
+ 
+ {% if page.lang == 'gr' %}
+ {% assign sorted_posts = site.posts | sort:"date" | reverse %}
+ {% else %}
+ {% assign sorted_posts = site.posts-en | sort:"date" | reverse %}
+ {% endif %}
+ 
+ 
+ <div class="row">
+ {% for post in sorted_posts limit:3 %}
+   <div class="column">
+     <h3>{{ post.title }}</h3>
+     <br />
+     {{ post.excerpt | truncate: 125}}
+     <br />
+     <a href="{{ post.link }}" > <button type="button" class="btn btn-secondary">Learn More</button> </a>
+   </div>
+ {% endfor %}
+ </div>
