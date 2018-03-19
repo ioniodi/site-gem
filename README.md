@@ -6,8 +6,6 @@
 
 :sparkles::sparkles::sparkles:
 
-![layout examples](screenshot-layouts.png)
-
 ### Demo Σελίδες
 
 | Name                                        | Description                                           |
