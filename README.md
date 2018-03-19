@@ -20,28 +20,29 @@
 
 ###### 1. Μέθοδος Ruby Gem
 
-Εγκαταστήστε το θέμα ως `Ruby Gem` προσθέτοντάς το στο `Gemfile` σας :
+1.Εγκαταστήστε το θέμα ως `Ruby Gem` προσθέτοντάς το στο `Gemfile` σας :
 
   ```
 gem "minimal-mistakes-jekyll"
   ```
 
-Λαμβάνετε και ενημερώστε τα πακέτα `bundled gems` τρέχοντας την ακόλουθη εντολή `Bundler`:
+2.Λαμβάνετε και ενημερώστε τα πακέτα `bundled gems` τρέχοντας την ακόλουθη εντολή `Bundler`:
 
   ```
 bundle
   ```
   
-Ορίστε το θέμα στο αρχείο Jekyll `_config.yml` του έργου σας:
+3.Ορίστε το θέμα στο αρχείο Jekyll `_config.yml` του έργου σας:
 
   ```
 theme: minimal-mistakes-jekyll
   ```
-Για να ενημερώσετε την έκδοση τρέξτε την εντολή  `bundle update`.
+  
+4.Για να ενημερώσετε την έκδοση τρέξτε την εντολή  `bundle update`.
 
 ###### 2. Μέθοδος GitHub Pages
 
-Δημιουργήστε / αντικαταστήστε τα περιεχόμενα του `Gemfile` σας με τα ακόλουθα:
+1.Δημιουργήστε / αντικαταστήστε τα περιεχόμενα του `Gemfile` σας με τα ακόλουθα:
 
   ```
 source "https://rubygems.org"
@@ -49,13 +50,13 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
   ```
   
-Λαμβάνετε και ενημερώστε τα πακέτα bundled gems τρέχοντας την ακόλουθη εντολή `Bundler`:
+2.Λαμβάνετε και ενημερώστε τα πακέτα bundled gems τρέχοντας την ακόλουθη εντολή `Bundler`:
 
   ```
 bundle 
   ```
 
-Προσθέστε το `remote_theme: "mmistakes / minimal-errors"` στο αρχείο `_config.yml`. Καταργήστε οποιοδήποτε άλλο θέμα: ή `remote_theme`:  entry.
+3.Προσθέστε το `remote_theme: "mmistakes / minimal-errors"` στο αρχείο `_config.yml`. Καταργήστε οποιοδήποτε άλλο θέμα: ή `remote_theme`:  entry.
 
 ### Χρήση
 
@@ -77,9 +78,31 @@ bundle
 Ανοίξτε ένα pull request στο GitHub και περιγράψτε την αλλαγή σας ή την διόρθωσή σας.
 
 ### Ανάπτυξη
-Για να ρυθμίσετε το περιβάλλον σας για να αναπτύξετε αυτό το θέμα, εκτελέστε την εντολή bundle install.
+Για να ρυθμίσετε το περιβάλλον σας για να αναπτύξετε αυτό το θέμα, εκτελέστε τις ακόλουθες εντολές :
 
-Για να δοκιμάσετε το θέμα, εκτελέστε τη εντολή `bundle exec` rake και ανοίξτε το πρόγραμμα περιήγησης στο `http://localhost:4000/test/`. Αυτό ξεκινά έναν διακομιστή `Jekyll` χρησιμοποιώντας περιεχόμενο στον κατάλογο δοκιμής. Καθώς γίνονται τροποποιήσεις στην ιστοσελίδα και στον ιστότοπο δοκιμών, θα ενεργοποιηθούν και θα δείτε τις αλλαγές στο πρόγραμμα περιήγησης μετά από μία ανανέωση.
+Μόνο την πρώτη φορά:
+
+  ```
+sudo apt-get install git
+gem install jekyll
+gem install bundler
+sudo apt-get install rubygems
+git config --global user.email "email@example.com"
+git config --global user.name "to onoma sou"
+Κάνετε fork το minimal-ionio
+Κάνετε ενεργοποιήση του github pages απο το κλαδί master/docs
+git clone https://github.com/yourname/minimal-ionio.git
+  ```
+
+Σε κάθε χρήση:
+
+  ```
+cd minimal-ionio/test
+bundle install
+bundle exec jekyll serve
+  ```
+
+Για να δοκιμάσετε το θέμα, εκτελέστε τη εντολή `bundle exec jekyll serve` rake και ανοίξτε το πρόγραμμα περιήγησης στο `http://localhost:4000/test/`. Αυτό ξεκινά έναν διακομιστή `Jekyll` χρησιμοποιώντας περιεχόμενο στον κατάλογο δοκιμής. Καθώς γίνονται τροποποιήσεις στην ιστοσελίδα και στον ιστότοπο δοκιμών, θα ενεργοποιηθούν και θα δείτε τις αλλαγές στο πρόγραμμα περιήγησης μετά από μία ανανέωση.
 
 ### Credits
 
