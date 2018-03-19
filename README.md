@@ -6,9 +6,9 @@
 
 :sparkles::sparkles::sparkles:
 
-## Skins (Color Variations)
+## Skins (Χρωματικές παραλλαγές)
 
-This theme comes in nine different skins (including the default one).
+Αυτό το θέμα περιέχει κι άλλα skins σε διάφορες χρωματικές παραλλαγές .
 
 | `air` | `contrast` | `dark` |
 | --- | --- | --- |
