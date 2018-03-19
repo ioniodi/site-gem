@@ -6,11 +6,6 @@
 
 :sparkles::sparkles::sparkles:
 
-[![Minimal Mistakes live preview][2]][1]
-
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
-
 ![layout examples](screenshot-layouts.png)
 
 ### Demo Σελίδες
